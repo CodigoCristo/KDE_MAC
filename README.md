@@ -87,7 +87,24 @@ cp -r .local/* ~/.local/
 
 ### 7. Configurar SDDM
 ```bash
-sudo sed -i 's/^Current=.*$/Current=MacVentura-Dark/' /etc/sddm.conf.d/kde_settings.conf
+sudo tee "$SDDM_CONFIG" > /dev/null <<'EOF'
+[Autologin]
+Relogin=false
+Session=
+User=
+
+[General]
+HaltCommand=/usr/bin/systemctl poweroff
+RebootCommand=/usr/bin/systemctl reboot
+Numlock=on
+
+[Theme]
+Current=MacVentura-Dark
+
+[Users]
+MaximumUid=60513
+MinimumUid=1000
+EOF
 ```
 
 ### 8. Actualizar directorios de usuario

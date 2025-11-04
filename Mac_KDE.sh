@@ -81,13 +81,57 @@ print_msg "Copiando configuraciones de .local..."
 cp -r .local/* ~/.local/
 print_success "Configuraciones de .local copiadas"
 
+# Configurar SDDM
 print_msg "Configurando SDDM..."
-sudo sed -i 's/^Current=.*$/Current=MacVentura-Dark/' /etc/sddm.conf.d/kde_settings.conf
-sudo sed -i '$a\\n[General]\nNumlock=on' /etc/sddm.conf.d/kde_settings.conf
+SDDM_CONFIG="/etc/sddm.conf.d/kde_settings.conf"
+
+# Crear directorio si no existe
+sudo mkdir -p /etc/sddm.conf.d/
+
+if [ ! -f "$SDDM_CONFIG" ]; then
+    # Si el archivo no existe, crearlo con el contenido completo
+    print_msg "Creando archivo de configuración SDDM..."
+    sudo tee "$SDDM_CONFIG" > /dev/null <<'EOF'
+[Autologin]
+Relogin=false
+Session=
+User=
+
+[General]
+HaltCommand=/usr/bin/systemctl poweroff
+RebootCommand=/usr/bin/systemctl reboot
+Numlock=on
+
+[Theme]
+Current=MacVentura-Dark
+
+[Users]
+MaximumUid=60513
+MinimumUid=1000
+EOF
+    print_success "Archivo SDDM creado con configuración completa"
+else
+    # Si el archivo existe, solo modificar las líneas necesarias
+    sudo sed -i 's/^Current=.*$/Current=MacVentura-Dark/' "$SDDM_CONFIG"
+
+    # Verificar si ya existe la línea Numlock=on
+    if ! grep -q "^Numlock=on" "$SDDM_CONFIG"; then
+        # Verificar si existe la sección [General]
+        if grep -q "^\[General\]" "$SDDM_CONFIG"; then
+            # Agregar Numlock=on después de la sección [General]
+            sudo sed -i '/^\[General\]/a Numlock=on' "$SDDM_CONFIG"
+        else
+            # Agregar la sección [General] con Numlock=on al final
+            echo -e "\n[General]\nNumlock=on" | sudo tee -a "$SDDM_CONFIG" > /dev/null
+        fi
+    fi
+    print_success "Archivo SDDM actualizado"
+fi
+
 print_success "SDDM configurado"
 
-# Instalar efectos KWin
-print_msg "Instalando xdg-user-dirsr..."
+# Instalar xdg-user-dirs
+print_msg "Instalando xdg-user-dirs..."
 yay -S xdg-user-dirs --noansweredit --noconfirm --needed
 print_success "xdg-user-dirs instalados"
 xdg-user-dirs-update --force
@@ -97,4 +141,3 @@ echo ""
 print_success "¡Instalación completada!"
 echo -e "${GREEN}Todos los temas han sido instalados correctamente.${NC}"
 echo -e "${BLUE}Reinicia tu sesión para aplicar los cambios.${NC}"
-
