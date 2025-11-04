@@ -4,9 +4,20 @@
 
 Dotfiles para transformar Arch Linux con KDE Plasma en un entorno estilo macOS Ventura.
 
+## Requisitos Previos
+
+Debes tener **KDE Plasma instalado** en Arch Linux. Si aún no lo tienes:
+
+```bash
+sudo pacman -S plasma-meta kde-applications sddm
+sudo systemctl enable sddm
+```
+
 ## Instalación Automática
 
 ```bash
+git clone https://github.com/CodigoCristo/KDE_MAC.git
+cd KDE_MAC
 chmod +x Mac_KDE.sh
 ./Mac_KDE.sh
 ```
@@ -17,12 +28,18 @@ Después de ejecutar el script, **reinicia tu sesión** para aplicar todos los c
 
 Si prefieres hacerlo paso a paso:
 
-### 1. Instalar Klassy
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/CodigoCristo/KDE_MAC.git
+cd KDE_MAC
+```
+
+### 2. Instalar Klassy
 ```bash
 yay -S klassy
 ```
 
-### 2. Instalar tema Sumac
+### 3. Instalar tema Sumac
 ```bash
 git clone https://github.com/doncsugar/sumac-theme.git
 cd sumac-theme/plasma-styles
@@ -34,34 +51,36 @@ cd ../icon-packs
 ./genthemes.sh
 cp -r output/Sumac-Day ~/.local/share/icons/
 cp -r output/Sumac-Night ~/.local/share/icons/
+cd ../..
 ```
 
-### 3. Instalar esquemas de color Flat Remix
+### 4. Instalar esquemas de color Flat Remix
 ```bash
 git clone https://github.com/daniruiz/flat-remix-kde/
 cd flat-remix-kde/color-schemes
 cp *.colors ~/.local/share/color-schemes/
+cd ../..
 ```
 
-### 4. Instalar efectos KWin
+### 5. Instalar efectos KWin
 ```bash
 yay -S kwin-effects-forceblur kwin-scripts-forceblur
 ```
 
-### 5. Copiar configuraciones
+### 6. Copiar configuraciones
 ```bash
 cp -r .config/* ~/.config/
 cp -r .local/* ~/.local/
 ```
 
-### 6. Configurar SDDM
+### 7. Configurar SDDM
 ```bash
 sudo sed -i 's/^Current=.*$/Current=MacVentura-Dark/' /etc/sddm.conf.d/kde_settings.conf
 ```
 
-### 7. Actualizar directorios de usuario
+### 8. Actualizar directorios de usuario
 ```bash
-yay -S xdg-user-dirs
+sudo pacman -S xdg-user-dirs
 xdg-user-dirs-update --force
 ```
 
