@@ -87,6 +87,8 @@ cp -r .local/* ~/.local/
 
 ### 7. Configurar SDDM
 ```bash
+sudo cp -r Apple-Sequoia-v1.Plasma6 /usr/share/sddm/themes/
+
 sudo tee "$SDDM_CONFIG" > /dev/null <<'EOF'
 [Autologin]
 Relogin=false
