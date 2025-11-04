@@ -40,6 +40,12 @@ git clone https://github.com/CodigoCristo/KDE_MAC.git
 cd KDE_MAC
 ```
 
+### Crear las carpetas
+```bash
+mkdir -p ~/.config
+mkdir -p ~/.local/share/{plasma/look-and-feel,plasma/desktoptheme,icons,color-schemes}
+```
+
 ### 2. Instalar Klassy
 ```bash
 yay -S klassy

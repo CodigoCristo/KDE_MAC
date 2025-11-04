@@ -20,6 +20,11 @@ print_error() {
     echo -e "${RED}✗${NC} $1"
 }
 
+# Crear directorios necesarios
+print_msg "Creando directorios necesarios..."
+mkdir -p ~/.config
+mkdir -p ~/.local/share/{plasma/look-and-feel,plasma/desktoptheme,icons,color-schemes}
+
 # Instalar dependencias
 print_msg "Instalando Klassy..."
 yay -S klassy --noansweredit --noconfirm --needed
@@ -66,11 +71,6 @@ print_success "Esquemas de color Flat Remix instalados"
 print_msg "Instalando efectos KWin Force Blur..."
 yay -S kwin-effects-forceblur kwin-scripts-forceblur --noansweredit --noconfirm --needed
 print_success "Efectos KWin instalados"
-
-# Crear directorios necesarios
-print_msg "Creando directorios necesarios..."
-mkdir -p ~/.config
-mkdir -p ~/.local/share/{plasma/look-and-feel,plasma/desktoptheme,icons,color-schemes}
 
 # Copiar configuraciones desde carpeta MAC
 print_msg "Copiando configuraciones de .config..."
