@@ -101,7 +101,7 @@ RebootCommand=/usr/bin/systemctl reboot
 Numlock=on
 
 [Theme]
-Current=MacVentura-Dark
+Current=Apple-Sequoia-v1.Plasma6
 
 [Users]
 MaximumUid=60513
