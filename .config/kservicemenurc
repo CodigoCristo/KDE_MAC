@@ -1,0 +1,14 @@
+[Show]
+compressfileitemaction=true
+extractfileitemaction=true
+forgetfileitemaction=true
+installFont=true
+kactivitymanagerd_fileitem_linking_plugin=true
+kdeconnectfileitemaction=true
+movetonewfolderitemaction=true
+runInKonsole=true
+setfoldericonitemaction=true
+sharefileitemaction=true
+slideshowfileitemaction=true
+tagsfileitemaction=true
+wallpaperfileitemaction=true

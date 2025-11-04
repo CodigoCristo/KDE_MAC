@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="715">
+  <name>Quarks Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2318107</homepage>
+  <licence></licence>
+  <version>0.1.6</version>
+  <rating>50</rating>
+  <downloads>0</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/wallpapers/Librepixels.Quarks/</installedfile>
+  <id>2318107</id>
+  <releasedate>2025-10-29</releasedate>
+  <summary>&lt;p>inspired on &lt;a href="https://store.kde.org/p/1304256/">https://store.kde.org/p/1304256/&lt;/a> by ADHE. &lt;br />&lt;br />Unlike the splash created by Adhe, this wallpaper does not use a GIF, this wallpaper creates the effect in real time with QML&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2318107/quarks01.webp</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2318107/quarks01.webp</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTcwMzQ2NCwibyI6IjEiLCJzIjoiNzExYzlhNGExM2JiNmExZjg5ODBkNWI4YzEzOGI4NzFiNDg1ZGUwYWQzNjFiNjg1ODQ2NTdkNWE3NDAwMGZmZTI0MGExNmQxZDY4Y2EwN2FmOTFkOGU3Nzc5NDE5Yzc4OWI0MDdmMjk3YTlkOTUxOGQ1ZDFlNDk0MzY5ZjQxNjgiLCJ0IjoxNzYyMTYwMTA2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.mN_Sbmb2WQCormNyqME-EL0yejeuXEsrM1GxMvREuvk/Librepixels.Quarks.tar.xz</payload>
+  <tags>original-product,plasma,plasma##majorversion=6,extension,wallpaper-plugin,tahoe,unix,agplv3,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

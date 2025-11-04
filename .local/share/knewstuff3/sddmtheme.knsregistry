@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Apple Sequoia SDDM Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2222754</homepage>
+  <licence></licence>
+  <version>1.1.1</version>
+  <rating>50</rating>
+  <downloads>4809</downloads>
+  <installedfile>/tmp/Apple-Sequoia-v1.Plasma6.tar.xz</installedfile>
+  <id>2222754</id>
+  <releasedate>2025-06-19</releasedate>
+  <summary>&lt;p>SDDM theme with an appearance similar to Apple macOS Sequoia, and Plasma 6&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2222754/screenshot.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2222754/screenshot.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0NjM4MTQwNSwibyI6IjEiLCJzIjoiZjFlMGQ3NzY4YjE3NDVjMjI5NjYxNzY1Y2MwYmZjNjE1NWQyZjRmZTlkMWI3ZDEyYjQxOTc3OGUwMGMwYjc2YTFhMDA1ZjIxMDE1OTYzNmQ2Njc2OWVjZjVkOWRlMjFhNDg3YmFlMjM5MDA1ZmRkNjUwNjhkMmJjMTY5NTk3MmYiLCJ0IjoxNzYyMTYwNTQ2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.IVj7RhLiPVUIVUU7tixdskOo8YTfKqch7iMA_ylAJFE/Apple-Sequoia-v1.Plasma6.tar.xz</payload>
+  <tags>agplv3,macos,linux,unix,tahoe,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

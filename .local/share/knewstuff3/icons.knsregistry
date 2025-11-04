@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Mkos-Big-Sur</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1400021</homepage>
+  <licence></licence>
+  <version>1.3.6.6</version>
+  <rating>90</rating>
+  <downloads>1</downloads>
+  <installedfile>/home/cristo/.local/share/icons/Mkos-Big-Sur/*</installedfile>
+  <installedfile>/home/cristo/.local/share/icons/Mkos-Big-Sur-Night/*</installedfile>
+  <installedfile>/home/cristo/.local/share/icons/Mkos-Big-Sur-Panel-white/*</installedfile>
+  <id>1400021</id>
+  <releasedate>2025-10-29</releasedate>
+  <summary>&lt;p>Icon set that imitate look to the icons of the new apple operating system version 11, created 100% in inkscape, no blurry backgrounds, instead I use the gradient tool and the technique of repeating multiple transparent images to give the same effect, this to ensure correct representation in all desktop environments, especially those written in qt libraries, As of beta 0.0.4, png shadows have also been incorporated only when very necessary,&lt;br />Theme to imitate the appearance of MacOS&lt;br />&lt;br />&lt;b>Icon theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1400021/">&lt;/a>&lt;a href="https://www.pling.com/p/1400021/">https://www.pling.com/p/1400021/&lt;/a>&lt;br />&lt;strong>&lt;strong>&lt;strong>&lt;strong>**&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;br />&lt;br />&lt;b>Aurorae theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1408711/">&lt;/a>&lt;a href="https://www.pling.com/p/1408711/">https://www.pling.com/p/1408711/&lt;/a>&lt;br />&lt;strong>&lt;strong>&lt;strong>&lt;strong>**&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;br />&lt;br />kvantum theme&lt;br />&lt;a href="https://www.pling.com/p/1408701/">&lt;/a>&lt;a href="https://www.pling.com/p/1408701/">https://www.pling.com/p/1408701/&lt;/a>&lt;br />&lt;br />&lt;b>plasma global theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1408719/">&lt;/a>&lt;a href="https://www.pling.com/p/1408719/">https://www.pling.com/p/1408719/&lt;/a>&lt;br />&lt;br />&lt;b>gtk-theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1405530/">&lt;/a>&lt;a href="https://www.pling.com/p/1405530/">https://www.pling.com/p/1405530/&lt;/a>&lt;br />--------------------------------&lt;br />&lt;b>based on my icon set &amp;quot;Os Catalina Icons&amp;quot;&lt;/b>:&lt;br />&lt;a href="https://www.pling.com/p/1309810/">&lt;/a>&lt;a href="https://www.pling.com/p/1309810/">https://www.pling.com/p/1309810/&lt;/a>&lt;br />&lt;br />--------------------------------&lt;br />If you want to see the quality of the icons, I recommend opening the following image and looking at a small demo in full size.&lt;br />&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/16.png">&lt;/a>&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/16.png">https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/16.png&lt;/a>&lt;br />&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/15.png">&lt;/a>&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/15.png">https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/15.png&lt;/a>&lt;br />&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/17.png">&lt;/a>&lt;a href="https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/17.png">https://raw.githubusercontent.com/zayronxio/Mkos-Big-Sur/master/preview-icons-apps/17.png&lt;/a>&lt;br />&lt;br />&lt;b>compatible with:&lt;/b>&lt;br />&lt;/p>&lt;ul>&lt;li>Deepin.&lt;br />&lt;/li>&lt;li>KDE.&lt;br />&lt;/li>&lt;li>Gnome.&lt;br />&lt;/li>&lt;li>ElementaryOs&lt;br />&lt;/li>&lt;li>Xfce4&lt;br />&lt;/li>&lt;/ul>&lt;br />&lt;br />--------------------------------&lt;br />&lt;br />&lt;b>Installation&lt;/b>&lt;br />&lt;br />download the latest version from &amp;quot;Files&amp;quot;.&lt;br />you will get a compressed file in &amp;quot;.tar.xz&amp;quot;, unzip in your HOME in the folder&lt;br />.icons,&lt;br />If it does not exist, create it.,&lt;br />in the KDE desktop environment the path is&lt;br />home/.local/share/icons.&lt;br />with root you can unzip in&lt;br />usr/share/icons.&lt;br />&lt;br />--------------------------------&lt;br />&lt;br />&lt;b>Donate me&lt;/b>&lt;br />If you like my job and you want to help me, invite me to a cafe. Here is a link so you can donate through PayPal if you wish:&lt;br />&lt;a href="https://www.paypal.me/zayronxio">Donate&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1400021/b52bb3a48d72826cb92c47c1cdfb9aba0084.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1400021/b52bb3a48d72826cb92c47c1cdfb9aba0084.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTcwMzc5NywibyI6IjEiLCJzIjoiY2Y1MjM2NzJjMmE2NWQ1ZjExNjA5OWExOTFjZDQ3Y2ZiNzQ3ZGRiMjIwNjM4MDMzMDMwZGVkNzk5Mzc2YmE0YzA4ZjQ0ODM2ZTc0MWI4ODk3YWU3OGFlMTQzZTUxNDY0ODk5NWNiYmMwNjZlMTdiYTQ3MzhhYjllOTBhMjgzNWMiLCJ0IjoxNzYyMTYwNTMzLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.hz27i80eKDH58p7wPXJdhm7j9J31QbD6lSYDhnj1fj0/Mkos-Big-Sur.tar.xz</payload>
+  <tags>original-product,bigsur,catalina,apple,icon-theme,linux,macos,unix,sonoma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>WhiteSur icon theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1405756</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>0</downloads>
+  <installedfile>/home/cristo/.local/share/icons/WhiteSur-light/*</installedfile>
+  <installedfile>/home/cristo/.local/share/icons/WhiteSur-dark/*</installedfile>
+  <installedfile>/home/cristo/.local/share/icons/WhiteSur/*</installedfile>
+  <id>1405756</id>
+  <releasedate>2025-10-04</releasedate>
+  <summary>&lt;p>WhiteSur icon theme for linux desktops&lt;br />----------------------------&lt;br />You can use this icon theme with:&lt;br />----------------------------&lt;br />&lt;br />&lt;b> Gtk theme &lt;/b>&lt;br />&lt;br />WhiteSur-gtk-theme: &lt;br />&lt;a href="https://www.pling.com/p/1403328/">&lt;/a>&lt;a href="https://www.pling.com/p/1403328/">https://www.pling.com/p/1403328/&lt;/a>&lt;br />---------------------------&lt;br />&lt;br />&lt;b> Kde theme &lt;/b>&lt;br />&lt;br />WhiteSur-kde-theme: &lt;br />Dark version: &lt;a href="https://www.pling.com/p/1400409/">&lt;/a>&lt;a href="https://www.pling.com/p/1400409/">https://www.pling.com/p/1400409/&lt;/a>&lt;br />Light version: &lt;a href="https://www.pling.com/p/1398840/">&lt;/a>&lt;a href="https://www.pling.com/p/1398840/">https://www.pling.com/p/1398840/&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1405756/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1405756/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1OTU3OTA3NSwibyI6IjEiLCJzIjoiYWEyNDI4OTY3ZTMwZjZkNjdhNjg0ZTE3OTlmZGFhM2ViYWYyZTM4YWQyMmY2MDdlZjA0YjQ4MzE3OTNkMzhhYjk1NGViODVjZWZiZDM3OGY3ODYyZWY0ODI1MmRkODA1YTkwOGMyZDE5MWM0OGU0N2E1OTg4ZTdkY2RjMWYzOWUiLCJ0IjoxNzYyMTUxMzk2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.lOtu5bf1QvG1wqC5BQv8IWFuhVIw67Ngh5ho5HCIshI/01-WhiteSur.tar.xz</payload>
+  <tags>unix,linux,icon-theme,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

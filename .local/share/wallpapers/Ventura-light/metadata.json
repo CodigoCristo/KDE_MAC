@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo.librepixels.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "Id": "Ventura-Light",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Ventura-light",
+        "Name[x-test]": "xxfernsxx"
+        }
+    }
+

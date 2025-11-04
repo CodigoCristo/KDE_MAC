@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "<adolfo>@librepixels.com",
+                "Name": "Zayronxio"
+            }
+        ],
+        "Category": "",
+        "Description": "Librepixels.Quarks",
+        "Icon": "preferences-desktop-color",
+        "Id": "Librepixels.Quarks",
+        "License": "GPLv3+",
+        "Name": "Quarks",
+        "Website": "https://store.kde.org/p/2318107"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

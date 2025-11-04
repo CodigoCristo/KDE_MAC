@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>Apple Splash dinamic</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2218598</homepage>
+  <licence></licence>
+  <version>1.3.4</version>
+  <rating>50</rating>
+  <downloads>0</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/look-and-feel/AppleSplash/</installedfile>
+  <id>2218598</id>
+  <releasedate>2025-10-31</releasedate>
+  <summary>&lt;p>Splash screen with a macos-like appearance that follows the user's wallpaper&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2218598/image10.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2218598/image10.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTkzNzI0OCwibyI6IjEiLCJzIjoiMWVjOTExN2E4OGNjMDA1MzdkYmRmMDE2NWFlZjM1YTg5MDE1OTdkYjlkYmQ5ZmQ1ZGFkNWI4M2RjYzExNjczMmE5MWQ2ZGQ5NjNiMmUxMTJhZWM3M2UyNTZjNjJiZjMyYjQwYTc2YjJhMmNmMGI0NTMzYjg1MjhkNDhiYjMyNjUiLCJ0IjoxNzYyMTYwMTMyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.BBl0O8nljyWarm12MoQqhgyLN4f7atNE6E1YN6CQpNI/AppleSplash.tar.xz</payload>
+  <tags>original-product,plasma,plasma##majorversion=5,splashscreen,unix,theme,agplv3,kde,linux,macos</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="722">
+  <name>Apple Ventura Dark Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2136154</homepage>
+  <licence></licence>
+  <version>0.7.4</version>
+  <rating>64</rating>
+  <downloads>26413</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/look-and-feel/Apple.Ventura.Dark.P6/</installedfile>
+  <id>2136154</id>
+  <releasedate>2025-10-29</releasedate>
+  <summary>&lt;p>Unfortunately it is not possible to imitate more, or at least at the level that was achieved in kde plasma 5&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2136154/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2136154/preview.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1ODgzNDM4NSwibyI6IjEiLCJzIjoiNWNhM2I5YzgxNmU4NGIxNWViZWE2M2Y5ODgwYjMyNTBhZTM3MWE2YWU2MzI3NDliYTY5NzQzNGViOTdlZjAzODU3OWU4OTk0OWFjNGQ3MDhhY2VhNTVlN2M3MGU0ZmFkYjMzMzVhZjI5YTU1OWIzYThjMDJhMzMxM2RjODcyZGYiLCJ0IjoxNzYyMTYwNDQyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.7cowROYjCDNA_AVrMTTR4o9lHYh_JLwgmeIyiBtIB9E/Apple.Ventura.Dark.P6.tar.xz</payload>
+  <tags>kde,linux,theme,unix,agplv3,original-product,plasma,plasma##majorversion=6</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

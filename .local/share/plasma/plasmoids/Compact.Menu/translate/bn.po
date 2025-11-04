@@ -1,0 +1,140 @@
+# Translation of dittomenu in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the dittomenu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dittomenu\n"
+"Report-Msgid-Bugs-To: https://store.kde.org/p/1312669/\n"
+"POT-Creation-Date: 2023-05-01 16:59-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali <bn@li.org>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../metadata.desktop
+msgid "Ditto Menu"
+msgstr "ডিট্টো মেনু"
+
+#: ../metadata.desktop
+msgid "A configurable launcher menu"
+msgstr "একটি কনফিগারযোগ্য লঞ্চার মেনু"
+
+#: ../contents/code/tools.js
+msgid "Remove from Favorites"
+msgstr "প্রিয় থেকে সরান"
+
+#: ../contents/code/tools.js
+msgid "Add to Favorites"
+msgstr "প্রিয়তে যোগ করুন"
+
+#: ../contents/code/tools.js
+msgid "On All Activities"
+msgstr "সমস্ত কার্যকলাপে"
+
+#: ../contents/code/tools.js
+msgid "On The Current Activity"
+msgstr "বর্তমান কার্যকলাপে"
+
+#: ../contents/code/tools.js
+msgid "Show In Favorites"
+msgstr "প্রিয়তে দেখান"
+
+#: ../contents/config/config.qml
+msgid "General"
+msgstr "সাধারণ"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Icon:"
+msgstr "আইকন:"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose..."
+msgstr "পছন্দ করুন..."
+
+#: ../contents/ui/ConfigGeneral.qml
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "আইকন মুছুন"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Show favorites first"
+msgstr "প্রথমে প্রিয় দেখান"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Menu position"
+msgstr "মেনু অবস্থান"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Default"
+msgstr "ডিফল্ট"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Center"
+msgstr "কেন্দ্র"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Center bottom"
+msgstr "কেন্দ্র-নিচ"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Show labels in two lines"
+msgstr "লেবেল দুই লাইনে দেখান"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Number of columns"
+msgstr "কলামের সংখ্যা"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Number of rows"
+msgstr "সারি সংখ্যা"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Unhide all hidden applications"
+msgstr "সমস্ত লুকানো অ্যাপ আনলুক করুন"
+
+#: ../contents/ui/ConfigGeneral.qml
+msgid "Unhidden!"
+msgstr "আনলুক করা হয়েছে!"
+
+#: ../contents/ui/main.qml
+msgid "Edit Applications..."
+msgstr "অ্যাপ্লিকেশন সম্পাদনা করুন..."
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "System Preferences"
+msgstr "সিস্টেম পছন্দসমূহ"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "User Home"
+msgstr "ব্যবহারকারীর হোম"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Lock Screen"
+msgstr "স্ক্রিন লক করুন"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Leave ..."
+msgstr "প্রস্থান করুন ..."
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Hi, "
+msgstr "হাই, "
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Type here to search ..."
+msgstr "এখানে টাইপ করে খুঁজুন ..."
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Favorites"
+msgstr "প্রিয়"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "All apps"
+msgstr "সমস্ত অ্যাপ"

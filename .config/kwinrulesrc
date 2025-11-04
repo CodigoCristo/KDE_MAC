@@ -1,0 +1,13 @@
+[202e301b-b14f-4089-9450-5d3e761dde47]
+Description=Transparencia
+opacityactive=75
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+types=66493
+wmclasscomplete=true
+wmclassmatch=2
+
+[General]
+count=1
+rules=202e301b-b14f-4089-9450-5d3e761dde47

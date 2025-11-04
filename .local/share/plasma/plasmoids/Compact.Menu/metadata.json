@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo@librepixels.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "BugReportUrl": "",
+        "Category": "Application Launchers",
+        "Description": "Small menu inspired by the concept by Koala_1087 @DKoala1087.",
+        "EnabledByDefault": true,
+        "Icon": "start-here-kde",
+        "Id": "Compact.Menu",
+        "License": "GPL-3.0",
+        "Name": "Compact Menu",
+        "Website": "https://github.com/zayronxio/Compact.Menu/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ]
+}

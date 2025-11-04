@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Mkos-BigSur-Aurora</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1408711</homepage>
+  <licence></licence>
+  <version>0.5.8</version>
+  <rating>58</rating>
+  <downloads>2</downloads>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/Mkos-BigSur/*</installedfile>
+  <id>1408711</id>
+  <releasedate>2025-10-31</releasedate>
+  <summary>&lt;p>Theme to imitate the appearance of MacOS&lt;br />&lt;br />&lt;b>Icon theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1400021/">&lt;/a>&lt;a href="https://www.pling.com/p/1400021/">https://www.pling.com/p/1400021/&lt;/a>&lt;br />&lt;strong>&lt;strong>&lt;strong>&lt;strong>**&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;br />&lt;br />&lt;b>Plasma theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1408717/">&lt;/a>&lt;a href="https://www.pling.com/p/1408717/">https://www.pling.com/p/1408717/&lt;/a>&lt;br />&lt;strong>&lt;strong>&lt;strong>&lt;strong>**&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;br />&lt;br />kvantum is also used in the capture with the simple-bigsur theme, I share the link in case you want to install.&lt;br />&lt;a href="https://www.pling.com/p/1409205/">&lt;/a>&lt;a href="https://www.pling.com/p/1409205/">https://www.pling.com/p/1409205/&lt;/a>&lt;br />&lt;br />&lt;b>installation of kvantum&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1342034/">&lt;/a>&lt;a href="https://www.pling.com/p/1342034/">https://www.pling.com/p/1342034/&lt;/a>&lt;br />&lt;br />&lt;b>Aurorae theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1409208/">&lt;/a>&lt;a href="https://www.pling.com/p/1409208/">https://www.pling.com/p/1409208/&lt;/a>&lt;br />&lt;strong>&lt;strong>&lt;strong>&lt;strong>**&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1408711/d1ec4b740a9c2677232d3b6e8c1505ebce47f8da9895da0e0ebabdbd5c6ce216e5fd.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1408711/d1ec4b740a9c2677232d3b6e8c1505ebce47f8da9895da0e0ebabdbd5c6ce216e5fd.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTkzODEzMCwibyI6IjEiLCJzIjoiMzkzOThjZGMxMWRkOGZhNzAyZTA4ZjYwYTI3ZTk5MmE0MjE1YzI2NTE3MThmZGE5OTcwZmViNDdjZDVmN2ViM2E0ODQ3YTJhYzllNTNhNjlmODc3NWUwMjgwOTY0MzdhYzMyZTM4M2E3MTc0ODIxYjZjMzliODIxMjcyZDAwZDMiLCJ0IjoxNzYyMTYwNDg2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.OV809N3dVgyfDLBOo5a1HYkx2qiw9ZHIx7saXSsag2s/Mkos-BigSur.tar.xz</payload>
+  <tags>kde,agplv3,unix,theme,sequoia,linux,plasma,osx</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>MacVentura Aurorae theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/2044275</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>47867</downloads>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/MacVentura-Dark-1.5x/*</installedfile>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/MacVentura-Light/*</installedfile>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/MacVentura-Dark/*</installedfile>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/MacVentura-Light-1.25x/*</installedfile>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/MacVentura-Light-1.5x/*</installedfile>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/MacVentura-Dark-1.25x/*</installedfile>
+  <id>2044275</id>
+  <releasedate>2023-06-18</releasedate>
+  <summary>&lt;p>MacVentura Aurorae theme&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/2044275/monterey-plasma-g2518.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/2044275/monterey-plasma-g2518.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY4NzExNDQ1NywibyI6IjEiLCJzIjoiNDYzYTM2MzVkYzBjMTc5MGJlZDUyYzM4NGIwYWEzNTBmMmM4YzI2ODIxNDAxNmNhMTUwZTdkODc5ZjM0OTYzMzVhNzIxMWRhNzlhYzk5Mzc0ZGQ0YmZjMWZmMzE4YmZjMmZhOTMxOWI3YmY3NDljMTJmNDJmZDhiZjU2MDZmYTYiLCJ0IjoxNzYyMTUxMzc5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.imzLZWtawwEaRouIb0GePFCe-QG3C8QDlwcxa_Ar6Kg/MacVentura.tar.gz</payload>
+  <tags>kde,gplv3,original-product,plasma,linux,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Mkos-BigSur-AuroraNight</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1409704</homepage>
+  <licence></licence>
+  <version>1.8.9</version>
+  <rating>58</rating>
+  <downloads>1</downloads>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/Mkos-BigSur-Night/*</installedfile>
+  <id>1409704</id>
+  <releasedate>2025-10-31</releasedate>
+  <summary>&lt;p>Skin Aurorae style macos BigSur black&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1409704/722549afc544e3d25ec64e5e5ba919b6a5f8e09dabd6ae8b7631baab5f4ab628799e.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1409704/722549afc544e3d25ec64e5e5ba919b6a5f8e09dabd6ae8b7631baab5f4ab628799e.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTkzODMyMiwibyI6IjEiLCJzIjoiMjU4ZWMwYzUwNmFmYThiMDk5OWJjNWUyN2VlMGQ1NDY4MWU3ZjEzNDUxNDI5NzE0MTRkYTQzZDdjMWI2MmE0MzViZTE5YjBmZDM1YzhiNWMzNmM5NTE4MmFmMWRlODhlN2VmZDFmZjI3ODI1YjJjYjg4OTE1ZjdmZmJjZDc3NmQiLCJ0IjoxNzYyMTYwNDgyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.TpsGIWeVB7u65piPYiN-6FPBb4Ox_IOLEEEDq_FMXNo/Mkos-BigSur-Night.tar.xz</payload>
+  <tags>linux,kde,agplv3,theme,unix,original-product,plasma,osx</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

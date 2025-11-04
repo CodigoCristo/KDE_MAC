@@ -1,0 +1,13 @@
+[General]
+ShowFullPathInTitlebar=true
+ViewPropsTimestamp=2025,11,4,0,0,33.473
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=16
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=appimagethumbnail,ffmpegthumbnailer,blenderthumbnail,cursorthumbnail,mobithumbnail,audiothumbnail,fontthumbnail,ffmpegthumbs,djvuthumbnail,gsthumbnail,rawthumbnail,directorythumbnail,gsf-office,kraorathumbnail,opendocumentthumbnail,windowsexethumbnail,glycin-heif,heif,glycin-image-rs,glycin-jxl,glycin-svg,imagethumbnail,windowsimagethumbnail,exrthumbnail,jpegthumbnail,svgthumbnail,comicbookthumbnail,ebookthumbnail,mltpreview

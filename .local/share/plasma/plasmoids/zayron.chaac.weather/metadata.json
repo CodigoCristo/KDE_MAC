@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo@librepixels.com",
+                "Name": "zayronxio."
+            }
+        ],
+        "Name": "Chaac Weather",
+        "Id": "zayron.chaac.weather",
+        "Description": "widget showing the current weather status",
+        "Category": "Utilities",
+        "Icon": "weather",
+        "EnabledByDefault": true,
+        "License": "GPL-3.0+",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "3.0.4",
+        "Website": "https://github.com/zayronxio/Chaac-weather"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

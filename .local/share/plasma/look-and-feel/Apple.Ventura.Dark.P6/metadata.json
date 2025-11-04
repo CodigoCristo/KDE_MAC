@@ -1,0 +1,47 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo@librepixels.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "Category": "",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Description": "theme that imitates the appearance of macos ventura and later versions",
+        "Id": "Apple.Ventura.Dark.P6",
+        "License": "GPLv3+",
+        "Name": "Apple.Ventura.Dark.P6",
+        "Website": "https://store.kde.org/p/1886187"
+        },
+        "X-KPackage-Dependencies": [
+        "kns://plasmoids.knsrc/api.kde-look.org/2238525",
+        "kns://wallpaperplugin.knsrc/api.kde-look.org/2318107",
+        "kns://colorschemes.knsrc/api.kde-look.org/1870462",
+        "kns://colorschemes.knsrc/api.kde-look.org/1408712",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1975770",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2218601",
+        "kns://lookandfeel.knsrc/api.kde-look.org/2218598",
+        "kns://plasmoids.knsrc/api.kde-look.org/2136299",
+        "kns://plasmoids.knsrc/api.kde-look.org/2183258",
+        "kns://plasmoids.knsrc/api.kde-look.org/2175475",
+        "kns://plasmoids.knsrc/api.kde-look.org/2136291",
+        "kns://plasmoids.knsrc/api.kde-look.org/2137418",
+        "kns://aurorae.knsrc/api.kde-look.org/1409704",
+        "kns://aurorae.knsrc/api.kde-look.org/1408711",
+        "kns://plasmoids.knsrc/api.kde-look.org/2138251",
+        "kns://plasmoids.knsrc/api.kde-look.org/2161461",
+        "kns://plasmoids.knsrc/api.kde-look.org/2139890",
+        "kns://plasmoids.knsrc/api.kde-look.org/2147882",
+        "kns://plasmoids.knsrc/api.kde-look.org/2136636",
+        "kns://wallpaper.knsrc/api.kde-look.org/1886183",
+        "kns://wallpaper.knsrc/api.kde-look.org/1973337",
+        "kns://xcursor.knsrc/api.kde-look.org/2083798",
+        "kns://icons.knsrc/api.kde-look.org/1400021",
+        "kns://plasmoids.knsrc/api.kde-look.org/2238492",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2222754"
+         ]
+         }

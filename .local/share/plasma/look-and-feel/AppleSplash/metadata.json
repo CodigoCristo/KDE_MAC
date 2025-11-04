@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo@libreprixels.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "Category": "",
+        "Description": "Splash screen with a frame-like appearance that follows the user's wallpaper",
+        "Id": "AppleSplash",
+        "License": "GPLv3",
+        "Name": "AppleSplash",
+        "Website": "https://store.kde.org/p/2218598/"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2",
+  "X-Plasma-MainScript": "default"
+}

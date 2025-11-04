@@ -1,0 +1,173 @@
+[PlasmaTransientsConfig]
+PreloadWeight=0
+popupHeight=400
+popupWidth=560
+
+[PlasmaViews][Panel 103]
+floating=1
+
+[PlasmaViews][Panel 103][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 105]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 105][Defaults]
+thickness=64
+
+[PlasmaViews][Panel 130]
+floating=0
+panelLengthMode=0
+panelVisibility=0
+
+[PlasmaViews][Panel 130][Defaults]
+thickness=24
+
+[PlasmaViews][Panel 161]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 161][Defaults]
+offset=0
+thickness=66
+
+[PlasmaViews][Panel 161][Horizontal2259]
+alignment=132
+
+[PlasmaViews][Panel 174]
+floating=1
+
+[PlasmaViews][Panel 174][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 198]
+floating=1
+
+[PlasmaViews][Panel 198][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 2]
+floating=1
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 222]
+floating=0
+panelLengthMode=0
+panelVisibility=0
+
+[PlasmaViews][Panel 222][Defaults]
+thickness=24
+
+[PlasmaViews][Panel 253]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 253][Defaults]
+offset=0
+thickness=66
+
+[PlasmaViews][Panel 253][Horizontal2259]
+alignment=132
+
+[PlasmaViews][Panel 26]
+floating=1
+
+[PlasmaViews][Panel 26][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 266]
+floating=0
+panelLengthMode=0
+panelVisibility=0
+
+[PlasmaViews][Panel 266][Defaults]
+thickness=52
+
+[PlasmaViews][Panel 28]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 28][Defaults]
+thickness=64
+
+[PlasmaViews][Panel 297]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 297][Defaults]
+offset=0
+thickness=62
+
+[PlasmaViews][Panel 297][Horizontal2259]
+alignment=132
+
+[PlasmaViews][Panel 310]
+floating=0
+panelLengthMode=0
+panelVisibility=0
+
+[PlasmaViews][Panel 310][Defaults]
+thickness=52
+
+[PlasmaViews][Panel 341]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 341][Defaults]
+offset=0
+thickness=66
+
+[PlasmaViews][Panel 341][Horizontal2259]
+alignment=132
+
+[PlasmaViews][Panel 385]
+floating=0
+panelLengthMode=0
+panelVisibility=0
+
+[PlasmaViews][Panel 385][Defaults]
+thickness=24
+
+[PlasmaViews][Panel 416]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 416][Defaults]
+offset=0
+thickness=66
+
+[PlasmaViews][Panel 416][Horizontal2259]
+alignment=132
+
+[PlasmaViews][Panel 53]
+floating=1
+
+[PlasmaViews][Panel 53][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 77]
+floating=1
+
+[PlasmaViews][Panel 77][Defaults]
+thickness=52
+
+[PlasmaViews][Panel 79]
+floating=1
+panelLengthMode=1
+panelVisibility=2
+
+[PlasmaViews][Panel 79][Defaults]
+thickness=64
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/taskmanager_configUpdate_wheelEnabled.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_showseconds_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/migrate_font_weights.js

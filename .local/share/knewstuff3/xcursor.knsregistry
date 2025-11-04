@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>WhiteSur cursors</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1411743</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>857987</downloads>
+  <installedfile>/home/cristo/.icons/WhiteSur-cursors/*</installedfile>
+  <id>1411743</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>&lt;p>WhiteSur cursors&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTU5NzIxOTU1MCwibyI6IjEiLCJzIjoiZDYyNzk5YWI3ZWZkODBjZDI3NjJiNDFkYjQwZjk1MGFhYzU2ZGE0YWQ4MDFiYWQwOWJiMmNhZjM2YWMyYmUwOGVkNDI5NTY0ZWU3OTlhOGExOThkYzU2ODVkOWE0NjE1N2RiYzZmOGIxMDc4N2U5NzVlMmIxYzdhOTAyN2YyYjQiLCJ0IjoxNzYyMTUxNDAzLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.E0a10r-P2GoWAOd-gVvnzcgHjkboEY8RFGshkZPMVjI/WhiteSur-cursors.tar.xz</payload>
+  <tags>original-product,unix,linux,gplv3,cursor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Apple Cursor</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2083798</homepage>
+  <licence></licence>
+  <version>1.1.1</version>
+  <rating>50</rating>
+  <downloads>71221</downloads>
+  <installedfile>/home/cristo/.icons/Apple-cursors/*</installedfile>
+  <id>2083798</id>
+  <releasedate>2025-10-29</releasedate>
+  <summary>&lt;p>Apple cursor&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2083798/screenshot-20230910-183004.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2083798/screenshot-20230910-183004.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0MTg4ODQxMywibyI6IjEiLCJzIjoiMmI3ZmU4NzUzNmFhMzM0YWE5Nzc3OWM3NDhiNzViMTFmYjZmYTk2ZjRmYmRjMzgxMjg0NjRkMmI1MmEyMWYyNWJkYTdiM2ZjMmE5YjQ4ZmQxYmU5YWQzNjI5MGM4YWJkNTI3MzFlZjYxMjU2M2M1NDRiN2ZhMjkzOTVlZDQxNTUiLCJ0IjoxNzYyMTYwNTI4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.yaX_u9m9WkWwLPD-K9BHf2Djv7X11MFzCXdlPfuy2Mo/Apple-cursors.tar.xz</payload>
+  <tags>linux,cc-by,cursor,unix,tahoe</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
