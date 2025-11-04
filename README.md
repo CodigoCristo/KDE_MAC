@@ -13,6 +13,12 @@ sudo pacman -S plasma-meta kde-applications sddm
 sudo systemctl enable sddm
 ```
 
+## Actualiza el sistema
+```bash
+sudo pacman -Syu
+yay -Syu
+```
+
 ## Instalación Automática
 
 ```bash
