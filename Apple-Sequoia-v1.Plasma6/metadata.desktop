@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Apple Sequoia v1
+Description=apple like style
+Author=zayronxio
+Copyright=(c) 2024, zayronxio
+License=gpl3.0
+Type=sddm-theme
+Version=1.0
+Screenshot=screenshot.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Apple-Sequoia-v1.Plasma6
+QtVersion=6

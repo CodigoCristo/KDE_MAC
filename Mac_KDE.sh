@@ -83,6 +83,7 @@ print_success "Configuraciones de .local copiadas"
 
 # Configurar SDDM
 print_msg "Configurando SDDM..."
+sudo cp -r Apple-Sequoia-v1.Plasma6 /usr/share/sddm/themes/
 SDDM_CONFIG="/etc/sddm.conf.d/kde_settings.conf"
 
 # Crear directorio si no existe
@@ -103,7 +104,7 @@ RebootCommand=/usr/bin/systemctl reboot
 Numlock=on
 
 [Theme]
-Current=MacVentura-Dark
+Current=Apple-Sequoia-v1.Plasma6
 
 [Users]
 MaximumUid=60513
@@ -112,7 +113,7 @@ EOF
     print_success "Archivo SDDM creado con configuración completa"
 else
     # Si el archivo existe, solo modificar las líneas necesarias
-    sudo sed -i 's/^Current=.*$/Current=MacVentura-Dark/' "$SDDM_CONFIG"
+    sudo sed -i 's/^Current=.*$/Current=Apple-Sequoia-v1.Plasma6/' "$SDDM_CONFIG"
 
     # Verificar si ya existe la línea Numlock=on
     if ! grep -q "^Numlock=on" "$SDDM_CONFIG"; then
