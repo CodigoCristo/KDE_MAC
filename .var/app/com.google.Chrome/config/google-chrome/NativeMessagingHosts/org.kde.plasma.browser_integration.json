@@ -1,0 +1,10 @@
+{
+    "allowed_origins": [
+        "chrome-extension://cimiefiiaegbelhefglklhhakcgmhkai/",
+        "chrome-extension://dnnckbejblnejeabhcmhklcaljjpdjeh/"
+    ],
+    "description": "Native connector for KDE Plasma",
+    "name": "org.kde.plasma.browser_integration",
+    "path": "/home/cristo/.var/app/com.google.Chrome/plasma-browser-integration-host",
+    "type": "stdio"
+}

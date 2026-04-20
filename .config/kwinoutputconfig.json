@@ -3,31 +3,41 @@
         "data": [
             {
                 "allowDdcCi": true,
-                "allowSdrSoftwareBrightness": false,
+                "allowSdrSoftwareBrightness": true,
+                "autoBrightnessCurve": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "autoRotation": "InTabletMode",
-                "brightness": 0.7,
+                "automaticBrightness": false,
+                "brightness": 1,
                 "colorPowerTradeoff": "PreferEfficiency",
                 "colorProfileSource": "sRGB",
-                "connectorName": "DP-1",
-                "detectedDdcCi": true,
-                "edidHash": "92a0ba26d8bab265c341dc53e001c114",
-                "edidIdentifier": "GSM 30471 239932 12 2022 0",
+                "connectorName": "Virtual-1",
+                "detectedDdcCi": false,
+                "edidHash": "bb6ad72dc802b000932c73ad20996ae5",
+                "edidIdentifier": "RHT 4660 0 42 2014 0",
                 "edrPolicy": "always",
                 "highDynamicRange": false,
                 "iccProfilePath": "",
                 "maxBitsPerColor": 0,
                 "mode": {
-                    "height": 2160,
-                    "refreshRate": 59997,
-                    "width": 3840
+                    "height": 1080,
+                    "refreshRate": 60000,
+                    "width": 1920
                 },
                 "overscan": 0,
                 "rgbRange": "Automatic",
-                "scale": 1.7,
-                "sdrBrightness": 237,
+                "scale": 1,
+                "sdrBrightness": 200,
                 "sdrGamutWideness": 0,
+                "sharpness": 0,
                 "transform": "Normal",
-                "uuid": "070a6d22-70e9-4b35-84f8-33ed75781405",
+                "uuid": "4013a33b-9ffb-4c6e-82f2-b6513986eae5",
                 "vrrPolicy": "Never",
                 "wideColorGamut": false
             }
@@ -46,7 +56,7 @@
                             "x": 0,
                             "y": 0
                         },
-                        "priority": 0,
+                        "priority": 1,
                         "replicationSource": ""
                     }
                 ]

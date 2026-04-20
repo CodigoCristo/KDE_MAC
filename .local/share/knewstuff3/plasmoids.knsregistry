@@ -1,244 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
- <stuff category="708">
-  <name>Circle Clock plasma 6</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2136299</homepage>
-  <licence></licence>
-  <version>2.9.1</version>
-  <rating>50</rating>
-  <downloads>15856</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/CircleClock/</installedfile>
-  <id>2136299</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>Circle Clock simple&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2136299/screenshot-20231101-215649.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2136299/screenshot-20231101-215649.jpg</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0Njk4MzE2MCwibyI6IjEiLCJzIjoiZTgzNzlkMmJkNjU2NDVlNzQ4N2ZiZmYwNDMyMDBlZjViNTNiNmRhOTA0NGNhYmViYmUwYTVmYzZiNDA2Y2Q5OTJjOGVkNGQxOWQ4ZjZlZjk5MTU3NzI5NGZiYTUzOTgwOTFlOWM0ZGI4ZDhkODIyYzEwNmY3N2EyOTU2ODQ5OWQiLCJ0IjoxNzYyMTYwMTM3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.mCCfd8PO813UQUwmezjaVijshR7tYvr67skAt6RtYXo/CircleClock.tar.xz</payload>
-  <tags>plasma,plasma##majorversion=6,unix,tahoe,extension,efi,kde,linux,widget,agplv3</tags>
-  <status>installed</status>
- </stuff>
  <stuff category="706">
-  <name>fork kpple menu Plasma6</name>
+  <name>Kpple Menu 6</name>
   <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2138251</homepage>
+  <author>chrtall</author>
+  <homepage>https://store.kde.org/p/2164679</homepage>
   <licence></licence>
-  <version>1.6.8</version>
-  <rating>49</rating>
-  <downloads>24747</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/org.kpple.kppleMenu/</installedfile>
-  <id>2138251</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>The Kpple menu is a drop-down menu of Kpple OS, similar to the Apple's menu.&lt;/p></summary>
+  <version>6.0.0</version>
+  <rating>50</rating>
+  <downloads>7487</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/com.github.chrtall.kppleMenu/</installedfile>
+  <id>2164679</id>
+  <releasedate>2024-06-12</releasedate>
+  <summary>&lt;p>The Kpple menu is a drop-down menu that is usually found on the left side of the menu bar.&lt;br />The original maintainer does not seem actively maintaining the project anymore. In order to port the plasmoid to KF6 I created this fork.&lt;br />I also added Keyboard Navigation via Tab and Back-tab or via Arrow Keys.&lt;br />The user can also Lock Screen by pressing:  CTRL + ALT + Q when the applet is expanded.&lt;br />The users can also Log Out by presssing: SHIFT + ALT + Q when the applet is expanded.&lt;br />A shortcut for the applet can be set via the settings menu.&lt;/p></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2138251/captura-de-pantalla-20240316-154613.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2138251/captura-de-pantalla-20240316-154613.jpg</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0MjkxOTIwOCwibyI6IjEiLCJzIjoiYTc2NmY4YjZlZjFkNGQ2NzliYzZhZGE5MzI5ZGIzMzEyMTA4MjAxZGM2NTYzY2ZmYTdmZTBmNzY2N2UyZDBkMWUwNjI3MjViYzZjOTZiMDA2MzI5MTk1ZjllMDg5OTRiZTQyNTFmYTVmZWRhODI3NWNlMGI5ZDdmYTI2Yjg1NzgiLCJ0IjoxNzYyMTYwNDkxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.K0BD4G7Op7BLRGaqIK3eIgbKlXTbt5H57uu9oSI-7xE/org.kpple.kppleMenu.tar.xz</payload>
-  <tags>unix,sequoia,extension,widget,kde,linux,plasma##majorversion=6,plasma,agplv3</tags>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/68/82/70/2164679/light-kpplemenu.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/68/82/70/2164679/light-kpplemenu.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxODIwNzQxMiwibyI6IjEiLCJzIjoiYmE2ZTkyMjFkZTNjMjhiZDZjYjA2ZWQ1ZTRiMTZlMGY4YmIwMzJlZTE2YzEwZDQ5MjdiOGNhMGNkMjFlNDQ0Y2Q5ZmVhNDJhOWQ5ZmZjOTU1OTU2MmUwYTI1YTAxYzRlNWQ1NGI3OGJjYWFlZGUxMzhkZWQ2N2E0MTFjMjI3MjYiLCJ0IjoxNzc2NjEyOTcyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.fj9rOzD4hMAs7mszvuNHciQwUnoC4SH-Grb0p3bxF9g/kppleMenu-v6.0-plasma6-0.plasmoid</payload>
+  <tags>widget,extension,gplv2,original-product,plasma,plasma##majorversion=6,unix,kde,kde-widget,menu,linux</tags>
   <status>installed</status>
  </stuff>
  <stuff category="709">
-  <name>Plasma Drawer</name>
+  <name>Simple Application Launcher for Plasma 6</name>
   <providerid>api.kde-look.org</providerid>
-  <author>colloquiem</author>
-  <homepage>https://store.kde.org/p/2238492</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2115883</homepage>
   <licence></licence>
-  <version>2.0.0</version>
-  <rating>78</rating>
-  <downloads>20652</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/p-connor.plasma-drawer/</installedfile>
-  <id>2238492</id>
-  <releasedate>2025-01-18</releasedate>
-  <summary>&lt;p>A full-screen customizable launcher with application directories and krunner-like search for KDE Plasma 6. &lt;br />&lt;br />The Plasma 5 version can be found &lt;a href="https://www.pling.com/p/1973454">here&lt;/a>.&lt;br />&lt;br />&lt;b>-- Installation --&lt;/b>&lt;br />&lt;br />The widget can be downloaded or removed using the Plasma Add-On Installer:&lt;br />Right click desktop -&amp;gt; Add Widgets... -&amp;gt; Get new widgets -&amp;gt; Download New Plasma Widgets -&amp;gt; Search "Plasma Drawer"&lt;br />&lt;br />Alternatively, download the file, then run:&lt;br />&lt;/p>&lt;pre>&lt;code>kpackagetool6 -t Plasma/Applet -i plasma-drawer-VERSION.plasmoid&lt;/code>&lt;/pre>&lt;br />To uninstall, run:&lt;br />&lt;pre>&lt;code>kpackagetool6 -t Plasma/Applet -r p-connor.plasma-drawer&lt;/code>&lt;/pre>&lt;br />To upgrade to a newer version:&lt;br />&lt;pre>&lt;code>kpackagetool6 -t Plasma/Applet -u plasma-drawer-VERSION.plasmoid&lt;/code>&lt;/pre>&lt;br />&lt;br />&lt;b>-- Usage --&lt;/b>&lt;br />&lt;br />Add the widget to your panel or desktop, then click its icon to open it.&lt;br />&lt;br />&lt;b>Customizing Apps and Directories&lt;/b>&lt;br />&lt;br />Right click the widget icon, then select "Edit Applications." Then rearrange or adjust as desired. &lt;br />The applications in the grid will be arranged left to right, top to bottom.&lt;br />&lt;br />To add an app to the "root" page, drag or copy it out of any folder in the "Edit Applications" menu.&lt;br />&lt;br />&lt;b>Customizing Search Runners&lt;/b>&lt;br />&lt;br />Right click the icon widget, then select "Configure Plasma Drawer." Then click the "Search Plugins" tab on the left. Enable and re-arrange the plugins according to personal preference. Matches for plugins higher in the list will be prioritized.&lt;br />&lt;br />&lt;b>Customizing System Actions&lt;/b>&lt;br />&lt;br />System actions can be individually hidden by right clicking and selecting "Remove action," or disabled entirely in the widget configuration.&lt;br />The actions can also be rearranged by long pressing and dragging the icon to the desired position.&lt;br />&lt;br />&lt;b>Internationalization&lt;/b>&lt;br />Is Plasma Drawer not available in your language? Check out the &lt;a href="https://github.com/p-connor/plasma-drawer/blob/main/translate/README.md">Translations Readme&lt;/a> to help translate! Your support helps everyone who uses Plasma Drawer!&lt;br />&lt;br />&lt;b>Donations&lt;/b>&lt;br />You can support me &lt;a href="https://liberapay.com/p-connor/donate">here&lt;/a>.&lt;br />&lt;br />Inspired by Launchpad Plasma</summary>
+  <version>2.5</version>
+  <rating>72</rating>
+  <downloads>87335</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/org.kde.plasma.simplekickoff/</installedfile>
+  <id>2115883</id>
+  <releasedate>2025-04-25</releasedate>
+  <summary>&lt;p>This is a simplified fork of Kickoff which is KDE Plasma 6 Desktop's default Application launcher. The design is minimalized without compromising on power and important features.&lt;br />&lt;br />For Plasma 5 variant, &lt;a href="https://www.pling.com/p/1819888/">click here&lt;/a>&lt;br />&lt;br />Powerful Plasma Search&lt;br />The search bar uses Plasma Search, which is the same search provider used in the default Kickoff, Krunner and the Overview effect which supports powerful plugins.&lt;br />&lt;br />NOTE: This is based off from Kickoff which can be found in /usr/share/plasma/plasmoids/org.kde.plasma.kickoff/, on every Linux system that has KDE Plasma installed.&lt;/p></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/63/65/03/2238492/thumbnail.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/63/65/03/2238492/thumbnail.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczNzE3Mzk5NSwibyI6IjEiLCJzIjoiMzU5ZjU1MDQ5MjI5M2IwZmFiMWM0MWE5MDhkYmUxOWY0YTFiY2JlNjkyYWI2NDM3YjNhNDQzNzMyZjBhZWM4ZjU5N2M1YTc3YWY3NTc1MTYxNzhlZWNkNzQ1YThmYzRmOGQ5NDNlMjg4MmUzNzMwNzI5NWU1MTMyODcyMmQzM2YiLCJ0IjoxNzYyMTYwNTQxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.Qz7hGH4XXurgQSTyZ9jRC5RRA-CPJh1AagEThGU-XQA/plasma-drawer-2.0.1.plasmoid</payload>
-  <tags>menu,linux,launcher,original-product,plasma,plasma##majorversion=6,app,unix,widget,drawer,gplv3,kde,extension</tags>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2115883/nordic-round-grid-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2115883/nordic-round-grid-1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwOTg5NDQwMSwibyI6IjEiLCJzIjoiMjdkODRjZGU5NWI0Njg5Nzk3ZTJlMjI2NjUyYWE2ZTk1YzY0Yjc3Nzc2MjIzN2M3NDk4NjA3NmM0NjliNDhiMmYyNGUyNzZlNWFlMmMxYTY2YzdkODNhOTk5ZWVmNWE2OTkyMTM4NTY3N2IwNWMwMjcwYTBkMGJlYzEwN2IyYWYiLCJ0IjoxNzc2NTk4NzI2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.YgotD-u-Reizb_SX-zdVGLEB9f4GtDIYZjK3KI_qPto/Simple-Kickoff.plasmoid</payload>
+  <tags>start,startmenu,unix,plasma##majorversion=6,linux,launcher,kde,appmenu,plasma,extension,efi,gplv2-later,widget</tags>
   <status>installed</status>
  </stuff>
  <stuff category="706">
-  <name>Simple Separator for panel plasma 6</name>
+  <name>Panel Colorizer</name>
   <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2137418</homepage>
+  <author>luis-bocanegra</author>
+  <homepage>https://store.kde.org/p/2130967</homepage>
   <licence></licence>
-  <version>1.4.3</version>
-  <rating>62</rating>
-  <downloads>3977</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/zayron.simple.separator/</installedfile>
-  <id>2137418</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>a simple but working separator for the 6 plasma panel&lt;br />&lt;br />&lt;b>Configuration Options&lt;/b>&lt;br />&lt;/p>&lt;ul>&lt;li>Thickness&lt;br />&lt;/li>&lt;li>Color&lt;br />&lt;/li>&lt;li>Length&lt;br />&lt;/li>&lt;li>Margins&lt;br />&lt;/li>&lt;li>Opacity&lt;br />&lt;/li>&lt;li>Linear design or separator point&lt;br />&lt;/li>&lt;/ul></summary>
+  <version>v7.0.1</version>
+  <rating>89</rating>
+  <downloads>248292</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/luisbocanegra.panel.colorizer/</installedfile>
+  <id>2130967</id>
+  <releasedate>2026-04-12</releasedate>
+  <summary>&lt;p>Infinite customization for the KDE Plasma panels.&lt;br />&lt;br />&lt;b>Presets&lt;/b>&lt;br />&lt;em> 30+ built-in presets&lt;br />&lt;/em> Create your own configuration presets&lt;br />&lt;em> Restore defaults&lt;br />&lt;/em> Preset auto-loading&lt;br />&lt;em> &amp;bull; Floating panel&lt;br />&lt;/em> &amp;bull; Maximized window shown&lt;br />&lt;br />&lt;b>Widget Background&lt;/b>&lt;br />&lt;em> Color modes&lt;br />&lt;/em> &amp;bull; Static&lt;br />&lt;em> &amp;bull; Animated&lt;br />&lt;/em> -&amp;gt; Interval&lt;br />&lt;em> -&amp;gt; Fading&lt;br />&lt;/em> Colors&lt;br />&lt;em> &amp;bull; Custom&lt;br />&lt;/em> &amp;bull; System&lt;br />&lt;em> &amp;bull; Custom list&lt;br />&lt;/em> &amp;bull; Random&lt;br />&lt;em> Contrast correction&lt;br />&lt;/em> Style&lt;br />&lt;em> &amp;bull; Spacing&lt;br />&lt;/em> &amp;bull; Margin rules&lt;br />&lt;em> &amp;bull; Border radius&lt;br />&lt;/em> &amp;bull; Outline&lt;br />&lt;em> &amp;bull; Opacity&lt;br />&lt;/em> &amp;bull; Shadow&lt;br />&lt;em> &amp;bull; Line mode&lt;br />&lt;/em> Image / Color gradient background&lt;br />&lt;em> Widget islands&lt;br />&lt;br />&lt;b>Icons and text&lt;/b>&lt;br />&lt;/em> Color Modes&lt;br />&lt;em> &amp;bull; Static&lt;br />&lt;/em> &amp;bull; Interval&lt;br />&lt;em> &amp;bull; Follow widget background&lt;br />&lt;/em> Colors&lt;br />&lt;em> &amp;bull; Custom&lt;br />&lt;/em> &amp;bull; System&lt;br />&lt;em> &amp;bull; Custom list&lt;br />&lt;/em> &amp;bull; Random&lt;br />&lt;em> Contrast correction&lt;br />&lt;/em> Opacity&lt;br />&lt;em> Blacklisted widgets color&lt;br />&lt;/em> Force icon color to on specific plasmoids that use Kirigami.Icon&lt;br />&lt;em> Recolor applications tray icon&lt;br />&lt;/em> Replace system tray icons&lt;br />&lt;em> Icons/text shadow&lt;br />&lt;br />&lt;b>Panel background&lt;/b>&lt;br />&lt;/em> Opacity&lt;br />&lt;em> Color&lt;br />&lt;/em> Border radius&lt;br />&lt;em> Outline&lt;br />&lt;/em> Constant floating panel side padding&lt;br />&lt;em> Shadow&lt;br />&lt;/em> Transparent panel&lt;br />&lt;br />&lt;b>Other&lt;/b>&lt;br />* Widget Blacklist&lt;br />&lt;br />&lt;b>Support the development ❤️&lt;/b>&lt;br />&lt;br />&lt;/p>&lt;ul>&lt;li> GitHub Sponsors &lt;a href="https://github.com/sponsors/luisbocanegra">&lt;/a>&lt;a href="https://github.com/sponsors/luisbocanegra">https://github.com/sponsors/luisbocanegra&lt;/a>&lt;br />&lt;/li>&lt;li> Ko-fi &lt;a href="https://ko-fi.com/luisbocanegra">&lt;/a>&lt;a href="https://ko-fi.com/luisbocanegra">https://ko-fi.com/luisbocanegra&lt;/a>&lt;br />&lt;/li>&lt;li> Buy Me A Coffee &lt;a href="https://www.buymeacoffee.com/luisbocanegra">&lt;/a>&lt;a href="https://www.buymeacoffee.com/luisbocanegra">https://www.buymeacoffee.com/luisbocanegra&lt;/a>&lt;br />&lt;/li>&lt;li> PayPal &lt;a href="https://www.paypal.com/donate/?hosted_button_id=Y5TMH3Z4YZRDA">&lt;/a>&lt;a href="https://www.paypal.com/donate/?hosted_button_id=Y5TMH3Z4YZRDA">https://www.paypal.com/donate/?hosted_button_id=Y5TMH3Z4YZRDA&lt;/a>&lt;br />&lt;/li>&lt;li> Liberapay &lt;a href="https://liberapay.com/luisbocanegra/">&lt;/a>&lt;a href="https://liberapay.com/luisbocanegra/">https://liberapay.com/luisbocanegra/&lt;/a>&lt;br />&lt;/li>&lt;/ul></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2137418/captura-de-pantalla-20240313-202740.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2137418/captura-de-pantalla-20240313-202740.jpg</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTA5OTIxNiwibyI6IjEiLCJzIjoiYWU1ODgwNWNhYzFkZWRkYmQwY2QxOTQ5YTg3MWMxNDlmNWE4ZjE4MDEwODQwZTJhMTllNmIzZWY1YWFiN2ZkNzI5ZjVjMDYxYmU0MTZmNjM0MjE3NjUyYmMyYjI1YmY2MGFlOTUyMjMxN2E0MmU5ZTE2NTNjZjE3YTQzYmYxMjEiLCJ0IjoxNzYyMTYwNDc3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.7rj35b73vQXErYkmMEieFsCA-UN15liuJ2Ojr_85tJk/zayron.simple.separator.tar.xz</payload>
-  <tags>agplv3,original-product,plasma##majorversion=6,plasma,tahoe,unix,extension,widget,linux,macos,kde,latte</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="709">
-  <name>Compact Menu</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2183258</homepage>
-  <licence></licence>
-  <version>0.7</version>
-  <rating>55</rating>
-  <downloads>0</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/Compact.Menu/</installedfile>
-  <id>2183258</id>
-  <releasedate>2025-10-31</releasedate>
-  <summary>&lt;p>Small menu inspired by the concept by Koala_1087 @DKoala1087.&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2183258/demos.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2183258/demos.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTkzNjQ5NSwibyI6IjEiLCJzIjoiMTY2ZDc3OGJhYTgzZGYyODE5ZTUwYTA0N2U0ZWRlYmRkYjNjMjVmZjI3MDIxM2NhM2YyNjZhN2Q3ZjUzYTQ0OTk2NDZkMWI5OGMwNjY3MjgzZTI0ZTA3MTk0MTdmYTRmNThmMzYxYWRmMzQ4YzVhODI1NTViOTlhM2UzZmM0ZmYiLCJ0IjoxNzYyMTYwMTQyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.qYeswM9W_0YdYcE-g2OGhF4XePKFLjmheMOiM7zinwM/Compact.Menu.tar.xz</payload>
-  <tags>original-product,plasma##majorversion=6,plasma,extension,linux,kde,agplv3,unix,widget</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="712">
-  <name>Chaac Weather plasma6</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2136291</homepage>
-  <licence></licence>
-  <version>3.0.6</version>
-  <rating>50</rating>
-  <downloads>8067</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/zayron.chaac.weather/</installedfile>
-  <id>2136291</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>Widget that uses the free open meteo API to display the current weather, with a simple design. and in some cases, you won't have to intervene in the settings, as the widget will establish its location through its IP.&amp;quot;&lt;br />&lt;br />This widget does not yet have all the functionalities that I would like it to have, I will be working on it, if you want to contribute to the git hub repository&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2136291/screenshot-20231206-233607.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2136291/screenshot-20231206-233607.jpg</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1NTQ2MDg0MywibyI6IjEiLCJzIjoiZDU0OTFlOGQxODg5YzE3Njk3ZDJjYThkMzRhZDY2MGExNmUxNDE2MDJkNjAwOTY3YTY0MjQ3MTA2NWE0MmE3YmQ3NDExYzIwN2ZjNjk0MDdjYTUxNzFiZGYxN2U5MWI2YmExNTcyZDRmNDk1MTc4OGUzNzkyNzVmNjQ1MDIwNDYiLCJ0IjoxNzYyMTYwNDcyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.i-HChCBSZffuW8UwAh6I0vtBDm8t1lQw7xBQO_1Jmko/zayron.chaac.weather.tar.xz</payload>
-  <tags>widget,extension,conky,plasma,plasma##majorversion=6,original-product,kde,linux,unix,agplv3</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="708">
-  <name>Redmi Clock</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2175475</homepage>
-  <licence></licence>
-  <version>0.6.6</version>
-  <rating>50</rating>
-  <downloads>1565</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/Redmi.Clock/</installedfile>
-  <id>2175475</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>clock and weather widget inspired in widget of redmi os&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2175475/bur.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2175475/bur.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MDI4ODgzNywibyI6IjEiLCJzIjoiMDIxNTczOTdlZjQyYmUxYjZkNjcwNjQ4NWY4ZWNhNmRlNzdmZTdhZWEwOTc3MmExYTQ3NDFkMTFiZGM5MzVlOWRmNmQxNzEwNjQzODVmNjkzYjZmYWYzNTdmOGQwMjc5MTIwYzMwYWIwMDI3OTBhZjRjZjFjMDk1NDVkMTM4ZWEiLCJ0IjoxNzYyMTYwNDY4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.PFYVmNsBzo9MMBfI8a6UkqIV0ybbqGOWJlCDTySQLlU/Redmi.Clock.tar.xz</payload>
-  <tags>kde,linux,macos,unix,widget,agplv3,plasma,plasma##majorversion=6,extension</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="712">
-  <name>IntiSol weather widget</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2161461</homepage>
-  <licence></licence>
-  <version>0.9.6</version>
-  <rating>55</rating>
-  <downloads>2835</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/Weather.IntiSol.kde/</installedfile>
-  <id>2161461</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>This widget displays the current weather.&lt;br />&lt;br />Data is retrieved from the Open-Meteo API and processed using Bash and curl. If the widget doesn't work, you likely don't have curl installed.&lt;br />&lt;br />This widget determines your geographical coordinates based on your IP. However, if you prefer, you can set your location manually in the settings. The widget supports translations in popular languages like English, Hindi, Mandarin, Spanish, etc. If your language isn't included, let us know!. Translations are now handled in JavaScript, a different approach from the previous method. &lt;br />&lt;br />&lt;b>Features:&lt;/b>&lt;br />&lt;/p>&lt;ul>&lt;li>Can use Celsius or Fahrenheit&lt;br />&lt;/li>&lt;li>Automatic geographical coordinates retrieval system&lt;br />&lt;/li>&lt;li>Current temperature&lt;br />&lt;/li>&lt;li>Current weather condition&lt;br />&lt;/li>&lt;li>Does not require any private key&lt;br />&lt;/li>&lt;/ul>&lt;br />&lt;br />&lt;b>Donate me&lt;/b>&lt;br />&lt;b>If you like my job and you want to help me, invite me to a cafe. Here is a link so you can donate through PayPal if you wish:&lt;/b>&lt;br />&lt;a href="https://www.paypal.me/zayronxio">&lt;b>Donate&lt;/b>&lt;/a></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2161461/intisol.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2161461/intisol.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MDI4OTA0MiwibyI6IjEiLCJzIjoiN2M5ZGE3ZWVjNjY3ZTBkNTg1OWYyYzBmOGEzNjdlNDlkYWI3N2I0NWY3ZTMyZWQxMjY3YzhjMjI1OWM0Mzk1MTc5NWJhZjdlM2UwNDg3NDk3ZGQ2NmNjYmUzOGJjMmZlNzIzNmZmYzQxMTY5MTQ1YzBlYTFjMmExYzQ0YmY5YzEiLCJ0IjoxNzYyMTYwNDk2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.kPnrUmhwiUH6kCpWUkxvMgImgrJmkbUuHUNQRBEZImg/Weather.IntiSol.kde.tar.xz</payload>
-  <tags>tahoe,unix,widget,extension,agplv3,linux,kde,plasma,plasma##majorversion=6</tags>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/67/61/06/2130967/append-2026-04-01-033912.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/67/61/06/2130967/append-2026-04-01-033912.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc3NTk4NzMwOCwibyI6IjEiLCJzIjoiNWYxYjU1NGYyNzgzMmQ2NDBkYjVkYjIwZjQ1ZGJkODMyYWNhOTA3YTdkMDA5NjVlYjQ1NTM0ODg1NTJkOTZiZWY2OWVjZGM1Njk3ZDE4ZWE0N2NlMjA2Mzk1MWExNWRjMjYwMDhlMmVhNjM1MzViYWNhMmI3ZmU4MGE5NGY4YjQiLCJ0IjoxNzc2NjAwNTUxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.7XSIV0929n24gcS1YTUw3oBWrOPCfUDSpImbVgCEEiY/plasmoid-panel-colorizer-v7.0.1.plasmoid</payload>
+  <tags>customization,colors,extension,latte-dock,lgplv3,linux,kde,widget,original-product,plasma##majorversion=6,plasma,panel,theme,unix</tags>
   <status>installed</status>
  </stuff>
  <stuff category="706">
-  <name>Plasma Control Hub</name>
+  <name>Toggle Overview Widget for Plasma 6</name>
   <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2139890</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2132554</homepage>
   <licence></licence>
-  <version>0.9.9.5</version>
-  <rating>63</rating>
-  <downloads>1</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/Plasma.Control.Hub/</installedfile>
-  <id>2139890</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;h3>Plasma-Control-Hub is a similar macos control center applet, created especially for use in plasma. This widget is not a fork of Prayag2's work, although some of its code was reused. It's still a work in progress, it may not work. &lt;/h3>&lt;br />&lt;br />&lt;b>Features&lt;/b>&lt;br />&lt;br />&lt;ul>&lt;li> Battery indicator&lt;br />&lt;/li>&lt;li> Shutdown button&lt;br />&lt;/li>&lt;li> Brightness slider &lt;br />&lt;/li>&lt;li> Multimedia Controls&lt;br />&lt;/li>&lt;li> Volume Control&lt;br />&lt;/li>&lt;li> Bluetooth Toggle Control&lt;br />&lt;/li>&lt;li> Settings Button&lt;br />&lt;/li>&lt;li> Audio Settings Button&lt;br />&lt;/li>&lt;li> Network Configurations&lt;br />&lt;/li>&lt;li> Do Not Disturb Toggle&lt;br />&lt;/li>&lt;li> Current Weather&lt;br />&lt;/li>&lt;/ul>&lt;br />**************************************&lt;br />&lt;b>Manual Installation&lt;/b>&lt;br />&lt;br />Download the file from the "Files" tab on this page.&lt;br />Unzip the downloaded file and copy the resulting folder to the following path: .local/plasma/plasmoids&lt;br />&lt;br />&lt;b>Donate me&lt;/b>&lt;br />&lt;b>If you like my job and you want to help me, invite me to a cafe. Here is a link so you can donate through PayPal if you wish:&lt;/b>&lt;br />&lt;a href="https://www.paypal.me/zayronxio">&lt;b>Donate&lt;/b>&lt;/a>&lt;br />&lt;br />&lt;b>donate to the platform is the best way to recognize my work and that of all the content creators of the platform, I invite you to donate, you can do it with only $ 15 dollars, in advance I thank you.&lt;br />&lt;a href="https://www.opendesktop.org/support">donate to opendesktop&lt;/a>&lt;/b></summary>
+  <version>1.5</version>
+  <rating>64</rating>
+  <downloads>71281</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/com.himdek.kde.plasma.overview/</installedfile>
+  <id>2132554</id>
+  <releasedate>2025-04-25</releasedate>
+  <summary>&lt;p>Just a simple widget that opens the Overview on click. You can now put a button to open the Overview in panels and desktop. This can easily replace any Application Launcher as it has a powerful Krunner search box.&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/2008499/">Click here&lt;/a> to get it for Plasma 5&lt;br />&lt;br />Overview effect in present in Plasma 5.24 and later and needs to be enabled in System Settings &amp;gt; Workspace &amp;gt; Desktop Behaviour &amp;gt; Desktop Effects &amp;gt; Overview&lt;br />&lt;br />It shows a virtual desktop switcher with previews and previews of every window open in the current desktop. It also has a Krunner search box.&lt;/p></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2139890/demo.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2139890/demo.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTcwMjYyNywibyI6IjEiLCJzIjoiMjMwMDRhMGY4YmQ0ZGQ5MDVjN2Y2YWFkNjlmYmU4M2JlMWU2OGMzZjU4ZWRlNThjN2Y3NjU4NjVkODlmYjZjYmM0YTE1NjBhMGExOGJmMzk2YWEyNDY3ZDY5OWY4ZDc2MGU1NmZiZDQ1NDg0N2Q1NDU4MDIxYzFhMDhjZWM0MTYiLCJ0IjoxNzYyMTYwNTAxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.3wX7abadS0se8pysq3OuCrWCBn6pQDXd82Jtx3EaSTU/Plasma.Control.Hub.tar.xz</payload>
-  <tags>widget,original-product,plasma##majorversion=6,plasma,kde,linux,cc-by,unix,extension,control,controlcentre</tags>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132554/screenshot-20230326-174011.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132554/screenshot-20230326-174011.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczMDcxMzY0OSwibyI6IjEiLCJzIjoiZjcyMTQwMDhlNGNhYjEwZDJiYTcxMGFiYWI5ODhiNTY0NDUwZjgwM2I1ODVkNjQ4MmZhMjNjOGY3MjU2OWFhZTViZjcyNzI5MDM4Y2RlNWYzOGIwZWIwYzU2OWFlMGI1YTg2NzcxYTNkNDExNjAzZjA3ZGFiNDZjN2E3NDRlN2YiLCJ0IjoxNzc2NTk4NzQwLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.wT-DLUWFVpTloDvgZOvjttKhDmOfR9PYtem1Zi7Egh4/overview.plasmoid</payload>
+  <tags>appmenu,plasma##majorversion=6,unix,widget,fullscreen,extension,gplv3,plasma,original-product,overview,launcher,linux,kde,krunner</tags>
   <status>installed</status>
  </stuff>
  <stuff category="706">
-  <name>Window Tittle Fork</name>
+  <name>Window Title Applet 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>dhruv8sh</author>
+  <homepage>https://store.kde.org/p/2129423</homepage>
+  <licence></licence>
+  <version>v0.9.0</version>
+  <rating>71</rating>
+  <downloads>109288</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/org.kde.windowtitle/</installedfile>
+  <id>2129423</id>
+  <releasedate>2024-07-28</releasedate>
+  <summary>&lt;p>A Plasma 6 applet that builds on the work by Psifidotos.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/62/52/79/2129423/screenshot-20240309-033004.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/62/52/79/2129423/screenshot-20240309-033004.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMDIzNDU1MCwibyI6IjEiLCJzIjoiZjk5Y2E5OWZiNGIxYjQxY2ZhMDc0N2RkY2E4ZWUyN2E0NGQwZGE2NDVlZTQzZDVjZDY0Mjk2ZWIwYTZlZjc3YmZlMTBhYzk5NDBkMTlkZTFlZTUwOGE4MGRhMWQ4ZmNhOWIxYjFmZmY0MmJjMjBmYjk3M2VjMzYyZDQzNGYxYmEiLCJ0IjoxNzc2NjEzMjY0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.tA5aqEQf4VN-aqUqNOVmwlBItoV6LaotKim6cFyotBU/v0.5.tar.gz</payload>
+  <tags>applet,original-product,plasma,plasma##majorversion=6,plasma-desktop,plasmoid,unix,linux,kdeplasma,kde,kde-plasma,widget,gplv2,extension</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Clear Clock</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>qewer</author>
+  <homepage>https://store.kde.org/p/2147871</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>65</rating>
+  <downloads>20655</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/org.kde.plasma.clearclock/</installedfile>
+  <id>2147871</id>
+  <releasedate>2024-04-19</releasedate>
+  <summary>&lt;p>Clear Clock is a simple but configurable KDE plasmoid/widget for displaying date and time. Made for desktop use, won't work on panels/docks.&lt;br />&lt;br />Please open an issue in the GitHub repo (&lt;a href="https://github.com/qewer33/ClearClock">https://github.com/qewer33/ClearClock&lt;/a>) for bugs or feature requests.&lt;br />If you like Clear Clock and my other projects, consider donating to me on Ko-fi! &lt;a href="https://ko-fi.com/qewer">https://ko-fi.com/qewer&lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/61/20/66/2147871/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/61/20/66/2147871/logo.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMzQ2NzE1NywibyI6IjEiLCJzIjoiYzk5YmYzMGUwM2I2NjE1MWU0YzU2ZDgxNWM4YTgyZmQyZmVkYzBkNmFiZWQ1NzZlODhiZWJiZWZkMmIxOGI1YmRmMjc0OTFjNjQyMzRjZTljMmY2ODVjNzExMmFkNDlkOTQ4MGI1YmFhMzcwODVjNzVlOWE2OGI2OWJhNjA1ZTMiLCJ0IjoxNzc2NjAxMDY2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.hnFqOS7RNetW-evsUKSQmNwMBCG-RbDmWKNcxmSFjdo/Clear-Clock-v05.tar.gz</payload>
+  <tags>kde,linux,minimalism,minimalist,modern,unix,plasma##majorversion=6,original-product,plasma,clock,clocks,extension,gplv3,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Window Buttons Applet 6 Prebuilt</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2151931</homepage>
+  <licence></licence>
+  <version>0.11.1-prebuilt-1</version>
+  <rating>58</rating>
+  <downloads>27836</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/org.kde.windowbuttons/</installedfile>
+  <id>2151931</id>
+  <releasedate>2025-04-25</releasedate>
+  <summary>&lt;p>This is a prebuilt distribution of &lt;a href="https://store.kde.org/p/2143556">Window Buttons Applet for Plasma 6 - WIP&lt;/a> which in turn was ported to Plasma 6 by &lt;a href="https://store.kde.org/u/moodyhunter">MOODYHUNTER&lt;/a> from &lt;a href="https://store.kde.org/p/1272871/">Window Buttons Applet&lt;/a> originally developed by &lt;a href="https://store.kde.org/u/Psifidotos">Psifidotos&lt;/a>. I am in no way the original developer of this product nor have I modified it in any way. I published this prebuilt distribution so that it can be used a dependency for Plasma Global Themes.&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1906579/">Click here&lt;/a> to get it for Plasma 5&lt;br />&lt;br />This can be installed directly from Plasma Widget explorer or by clicking the install button in this page. However, for this to work correctly, the libraries must be installed by running the below command:&lt;br />&lt;/p>&lt;pre>&lt;code>
+cd &amp;amp;&amp;amp; sudo ./.local/share/plasma/plasmoids/org.kde.windowbuttons/lib-install.sh
+&lt;/code>&lt;/pre>&lt;br />To uninstall the libraries run:&lt;br />&lt;pre>&lt;code>
+sudo rm -rf /usr/lib/qt/qml/org/kde/appletdecoration/
+&lt;/code>&lt;/pre>&lt;br />&lt;br />NOTE: The libraries were built and will be continued to be built in Arch Linux running the latest available version of KDE Plasma. This may or may not work in other linux distribution or older Plasma versions. I do not intend to provide support if it does not work for you. In such a case you should consider building it yourself by following the instructions from &lt;a href="https://store.kde.org/p/2143556/">here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2151931/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2151931/03b6b9696cf8c8debffbaaf0c43cae5f0522.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc0MDg4MDU2MCwibyI6IjEiLCJzIjoiMDgzZjgzYzFlNmZhYmE2NDgxOWYzMTQ4MmZhMDRiZTc4ZjRjNzg2ODNhMmZmOGNjNGZmYjMyMjg0MzBkZmE3NjM0OGVjZjRkNjBlODVhMzgyZjlkYTkxNWM5ZDc3ZGNjYTY4NjU4ZWMwZmJhMjFiOThmMDU0MmYxMTc2YTczNzYiLCJ0IjoxNzc2NTk4NzI5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.OOb4xU5EdkvRo8GVrQAwipwRz8ZJYlG4MYyLxHM0EnU/Window-Button-Applet.plasmoid</payload>
+  <tags>linux,kde,plasma,extension,gplv2-later,plasma##majorversion=6,unix,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Netspeed Widget</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>HessiJames</author>
+  <homepage>https://store.kde.org/p/2136505</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>77</rating>
+  <downloads>93914</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/plasmoids/org.kde.netspeedWidget/</installedfile>
+  <id>2136505</id>
+  <releasedate>2024-03-10</releasedate>
+  <summary>&lt;p>Plasma 6 widget that displays the currently used network bandwidth.&lt;br />&lt;br />The appearance can be customized in the configuration dialog and a user defined application (eg. nethogs) can be launched when the applet is clicked.&lt;br />&lt;br />Required dependencies:&lt;br />&lt;br /> - awk&lt;br />&lt;br />Optional dependencies:&lt;br />&lt;br />- plasma-addons (may be called plasma5-addons, kdeplasma-addons or similar - used to launch a user defined application when the applet is clicked)&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/03/18/67/2136505/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/03/18/67/2136505/logo.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMDEwMzc0MCwibyI6IjEiLCJzIjoiNzQ1N2U4YmE0MDM4MGRhNTUwZjg1MGU4YzY3OGQwN2E0NWE1NTExOThhZjRiMThmNzg1OWE2OTdiM2QxM2FiOGQzOTE0YTdlNGM2MWMzZmQ2ZWRlODY0NTk5ODlmZDc5N2EzNzFmNGQ5NTNmNTYwNjViNmM1MGM1OWI5ZjM2OTYiLCJ0IjoxNzc2NTk4NzM2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.YpJEPdiMmkUet3T4WW9M5ZTRfV4O_Q9LG_BAgT2ektA/netspeed-widget-3.1.plasmoid</payload>
+  <tags>unix,plasma##majorversion=6,kde,linux,monitor,extension,gplv2-later,plasma,original-product,network,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Window Title Fork</name>
   <providerid>api.kde-look.org</providerid>
   <author>zayronXIO</author>
   <homepage>https://store.kde.org/p/2147882</homepage>
   <licence></licence>
-  <version>0.7.1-2</version>
-  <rating>50</rating>
-  <downloads>7578</downloads>
+  <version>0.7.1-4</version>
+  <rating>60</rating>
+  <downloads>67040</downloads>
   <installedfile>/home/cristo/.local/share/plasma/plasmoids/org.kde.windowtitle.Fork/</installedfile>
   <id>2147882</id>
-  <releasedate>2025-10-19</releasedate>
+  <releasedate>2026-03-02</releasedate>
   <summary>&lt;p>fork of work by dhruv8sh and based mainly on the work of psifidotos.&lt;br />&lt;br />This project will remain active as long as the user dhruv8sh, to whom I give credit for porting this widget to plasma 6, makes some necessary changes for me in this widget,&lt;br />&lt;br />There are only two differences with the dhruv8sh widget,&lt;br />&lt;br />1. You can edit the default text.&lt;br />2. can be installed from discover&lt;/p></summary>
   <changelog></changelog>
   <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2147882/captura-de-pantalla-20240418-143423.png</preview>
   <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2147882/captura-de-pantalla-20240418-143423.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc1NTQ1MzcxOCwibyI6IjEiLCJzIjoiMmU1Mzg2ODJlYzI1NTg0MDBhYjg4MWU1ZmUxNjBkODdmMWMwNDBmMWZmYTU4ZDU3MTAyN2EwNWZmZWYzODJlMmFiOGRkYmUxMjA3MTg5MjRmYmQ4YWJjMmRhZDk1OTY2NzI2OGZhNDE0OGYwYzdlNDZkYjVhMzc4M2E3MTA2MjciLCJ0IjoxNzYyMTYwNTA2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.sopkM4R6nc1iHQsXjWAv92SDH4XPLOiF_m02E5YaUhI/org.kde.windowtitle.Fork.tar.xz</payload>
-  <tags>plasma,plasma##majorversion=6,agplv3,widget,extension,kde,linux,tahoe,unix</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="706">
-  <name>Command Output [Plasma 6]</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>Zren</author>
-  <homepage>https://store.kde.org/p/2136636</homepage>
-  <licence></licence>
-  <version>14</version>
-  <rating>70</rating>
-  <downloads>38047</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/com.github.zren.commandoutput/</installedfile>
-  <id>2136636</id>
-  <releasedate>2024-04-30</releasedate>
-  <summary>&lt;p>Simple widget to print output of a command run every __ seconds.&lt;br />&lt;br />&lt;b>Plasma 5:&lt;/b> &lt;a href="https://store.kde.org/p/1166510/">https://store.kde.org/p/1166510/&lt;/a>&lt;br />&lt;br />v12 added experimental Support for Ansi Escape Colors (\033[31mRed), 8-bit colors (\033[38;2;255m), and RGB colors (\033[38;5;255;255;255m). More at https://stackoverflow.com/a/33206814/947742&lt;br />The following commands have been tested:&lt;br />* git -C ~/Code/plasma-applets/commandoutput/ log --oneline --color --decorate&lt;br />* SYSTEMD_COLORS=1 journalctl -q -b0 -n10&lt;br />&lt;br />Other Features:&lt;br />&lt;br />* Final newline is striped (you can replace all newlines with spaces in the config).&lt;br />* You can also specify commands to run on click or scrolling up/down.&lt;br />* You can change font size and color, and can hide the desktop widget background.&lt;br />* You can set a fixed width/height it should occupy in the panel.&lt;br />&lt;br />You might be interested in a more advanced widget called Kargos (&lt;a href="https://store.kde.org/p/1173112/">https://store.kde.org/p/1173112/&lt;/a>) which has a specific syntax for rendering the command's output as buttons/text in a popup.&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/43/39/56/2136636/logo.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/43/39/56/2136636/logo.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxNDUxMzAwNSwibyI6IjEiLCJzIjoiMmJhZGM4N2Y5ZjBjODIyNThiN2FjYTQ3YjEzMzQ3ZjQ2NjM0YTFkNzA0NDNjNjA4NWJmZTAyN2YxMGYyMTIwNDU4NzM5N2ViMjNjZDhiYmU0YmJjY2MyODhiNWZjZjZjNmNkMGU1ZGYzMjk0ZGFmOGJiZmNkMDQ3MTJkZGRmMTciLCJ0IjoxNzYyMTYwNTExLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.1slNtb_2rCuYYtWwIktGghUO3ayxz-aeJpxY8c6dVQg/commandoutput-v14-plasma6-0.plasmoid</payload>
-  <tags>kde,gplv2-later,extension,widget,unix,original-product,plasma##majorversion=6,plasma,linux</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="706">
-  <name>Plasma Flex Hub</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2238525</homepage>
-  <licence></licence>
-  <version>0.8.8.8</version>
-  <rating>53</rating>
-  <downloads>0</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/plasmoids/Plasma.Flex.Hub/</installedfile>
-  <id>2238525</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>Plasma Flex Hub is a modern and modular plasmoid, created from scratch in QML6. Currently, it features multimedia controls, indicators, toggle buttons for various system aspects, brightness controls, among many others. In the future, more features can be added, as its modularity makes it easy to add new elements.&lt;br />&lt;br />Furthermore, as its main differentiator from other alternatives, this plasmoid allows you to choose and organize the controls you need, and if necessary, you can easily create new ones from the settings&lt;br />&lt;br />&lt;b>Features:&lt;/b>&lt;br />&lt;/p>&lt;ul>&lt;li> Multimedia control, various designs  &lt;br />&lt;/li>&lt;li> Battery indicator  &lt;br />&lt;/li>&lt;li> Volume slider, various designs  &lt;br />&lt;/li>&lt;li> Brightness slider, various designs  &lt;br />&lt;/li>&lt;li> Toggle, Do Not Disturb  &lt;br />&lt;/li>&lt;li> Toggle, Dark/Light Theme  &lt;br />&lt;/li>&lt;li> Toggle, Night Light  &lt;br />&lt;/li>&lt;li> System indicators  &lt;br />&lt;/li>&lt;li> Network and Bluetooth, various designs  &lt;br />&lt;/li>&lt;li> Force Close button  &lt;br />&lt;/li>&lt;li> Power Actions button&lt;br />&lt;/li>&lt;li> Caffeine Control&lt;br />&lt;/li>&lt;li>custom controls, button that executes a command, or control/item that displays system information&lt;br />&lt;/li>&lt;/ul></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2238525/preview2.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2238525/preview2.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTY5OTg4NSwibyI6IjEiLCJzIjoiMDNhNjRhNzFmZWFhMzQxM2MwZWNmYWYwNmUyMThkYTlmMGFjMjE3NjYyZTNjNmVjZDIwYTEwYTQwNTdjYjI2ZjI1ZDRjMDM1ODRlMDAyZGZlODAxN2FjYWUyZWJkMTllMmMyZGFmZjU1NDU3Y2IzZmYyMTZjZGI2YjJjNDIzN2MiLCJ0IjoxNzYyMTYwMTAxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.r8kdSmf1MmgpwOdz-USSq7ajNbNVYBs6FdXar_uZRvk/Plasma.Flex.Hub.tar.xz</payload>
-  <tags>agplv3,kde,linux,extension,original-product,plasma,plasma##majorversion=6,widget,unix</tags>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc3MjQxNjIzMCwibyI6IjEiLCJzIjoiNWFmNGFjZjdhYjJlNmM3M2UwZGZiYTk0ZGYzNjQ2ZjRjMTQzMzkwMzAzZDZkNGQ3NDlmYzAwNjVjM2QyYzhlZDQ5ZWEwOWZjMDQ0OWRlNWE3ZTgxNTVjZTI5N2YzMWQyOTllZjljZWUyZDYxYWE0YzMxNWQ0Njk2MDM5OWEzYzMiLCJ0IjoxNzc2NjEzNTg3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.O_FeXi-2HKFxWTxwks4Iu2WEFeGZh6vbZeWTaZRZYQM/org.kde.windowtitle.Fork.tar.xz</payload>
+  <tags>extension,plasma,kde,linux,agplv3,widget,tahoe,plasma##majorversion=6,unix</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

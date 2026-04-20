@@ -161,7 +161,7 @@ GridLayout{
                 verticalAlignment: Text.AlignVCenter
 
                 text: existsWindowActive ? root.firstTitleText : root.fallBackText
-                color: PlasmaCore.Theme.textColor
+                color: Kirigami.Theme.textColor
                 font.capitalization: plasmoid.configuration.capitalFont ? Font.Capitalize : Font.MixedCase
                 font.bold: plasmoid.configuration.boldFont
                 font.italic: plasmoid.configuration.italicFont

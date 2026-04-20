@@ -1,46 +1,49 @@
 [Desktops]
-Id_1=329a2f13-3e1c-41bd-ad14-0749666cc23e
+Id_1=39efaf3f-1dda-44ce-80db-d3af27b66d20
 Number=1
 Rows=1
 
 [Effect-blur]
-BlurStrength=7
-NoiseStrength=6
+BlurStrength=8
+TransparentBlur=false
+blurEnabled=true
 
 [Effect-blurplus]
+BlurDecorations=true
 BlurMatching=false
 BlurNonMatching=true
-FakeBlur=true
-NoiseStrength=8
-PaintAsTranslucent=true
-RefractionStrength=2
-RoundCornersOfMaximizedWindows=true
-RoundedCornersAntialiasing=0
-TransparentBlur=false
+BlurStrength=10
+BottomCornerRadius=10
+Contrast=1.2
+NoiseStrength=4
+TopCornerRadius=10
 WindowClasses=
 
-[Effect-translucency]
-ComboboxPopups=90
-Dialogs=90
-Inactive=90
-Menus=90
-MoveResize=90
-
 [Plugins]
-blurEnabled=true
-forceblurEnabled=true
-translucencyEnabled=true
+blurEnabled=false
+dialogparentEnabled=false
+dimscreenEnabled=false
+glassEnabled=true
+screenedgeEnabled=false
 
-[Tiling]
+[Round-Corners]
+InactiveCornerRadius=15
+InactiveOutlineThickness=0
+OutlineThickness=0
+Size=15
+
+[Tiling][39efaf3f-1dda-44ce-80db-d3af27b66d20][4013a33b-9ffb-4c6e-82f2-b6513986eae5]
 padding=4
-
-[Tiling][329a2f13-3e1c-41bd-ad14-0749666cc23e][070a6d22-70e9-4b35-84f8-33ed75781405]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Windows]
+BorderlessMaximizedWindows=false
+
 [Xwayland]
-Scale=1.7
+Scale=1
 
 [org.kde.kdecoration2]
-BorderSize=Normal
-ButtonsOnLeft=XIA
-ButtonsOnRight=
+ButtonsOnLeft=
+ButtonsOnRight=IAX
+library=org.kde.kwin.aurorae.v2
+theme=__aurorae__svg__Utterly-Round-Dark

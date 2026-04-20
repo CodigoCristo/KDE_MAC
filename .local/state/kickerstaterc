@@ -1,0 +1,16 @@
+InstalledApps=org.kde.kinfocenter.desktop,assistant.desktop,cmake-gui.desktop,org.kde.kate.desktop,assistant.desktop,qdbusviewer.desktop,linguist.desktop,designer.desktop,org.kde.gwenview.desktop,org.kde.okular.desktop,bssh.desktop,bvnc.desktop,google-chrome.desktop,org.kde.kdeconnect.app.desktop,org.kde.kdeconnect.sms.desktop,qv4l2.desktop,qvidcap.desktop,org.kde.okular.desktop,org.kde.kinfocenter.desktop,org.kde.discover.desktop,org.kde.dolphin.desktop,org.kde.kmenuedit.desktop,org.kde.partitionmanager.desktop,lstopo.desktop,htop.desktop,org.kde.konsole.desktop,kvantummanager.desktop,org.kde.kwalletmanager.desktop,org.kde.plasma-systemmonitor.desktop,avahi-discover.desktop,systemsettings.desktop,uxterm.desktop,xterm.desktop,org.kde.ark.desktop,org.kde.kate.desktop,org.kde.kcalc.desktop,kvantummanager.desktop,org.kde.kwrite.desktop,org.kde.plasma.emojier.desktop,org.kde.spectacle.desktop
+
+[Application][cmake-gui.desktop]
+FirstSeen=2026,4,19
+
+[Application][duckstation-qt.desktop]
+LastSeen=2026,4,20
+
+[Application][htop.desktop]
+FirstSeen=2026,4,19
+
+[Application][pcsx2.desktop]
+LastSeen=2026,4,20
+
+[Application][rpcs3.desktop]
+LastSeen=2026,4,20

@@ -1,0 +1,9 @@
+{
+    "allowed_extensions": [
+        "plasma-browser-integration@kde.org"
+    ],
+    "description": "Native connector for KDE Plasma",
+    "name": "org.kde.plasma.browser_integration",
+    "path": "/home/cristo/.var/app/net.waterfox.waterfox/plasma-browser-integration-host",
+    "type": "stdio"
+}

@@ -7,16 +7,15 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-978.125,839.493)"
-font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0" >
-<path vector-effect="none" fill-rule="evenodd" d="M313,-268.638 C313,-268.638 313,-268.638 313,-268.638 L329,-268.638 C329,-268.638 329,-268.638 329,-268.638 L329,-252.638 C329,-252.638 329,-252.638 329,-252.638 L313,-252.638 C313,-252.638 313,-252.638 313,-252.638 L313,-268.638"/>
-</g>
-
-<g fill="#626465" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-12.5,-3226.13)"
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M12.0001,1047.36 C15.866,1047.36 19,1044.23 19,1040.36 C19,1036.5 15.866,1033.36 12.0001,1033.36 C8.13402,1033.36 5,1036.5 5,1040.36 C5,1044.23 8.13402,1047.36 12.0001,1047.36 "/>
+</g>
+
+<g fill="#eff0f1" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0548323,0,0,-0.0548325,48.025,93.2491)"
+font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M-419.917,788.749 C-168.11,788.749 36.0191,992.875 36.0191,1244.68 C36.0191,1496.49 -168.11,1700.62 -419.917,1700.62 C-671.722,1700.62 -875.852,1496.49 -875.852,1244.68 C-875.852,992.875 -671.722,788.749 -419.917,788.749 "/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

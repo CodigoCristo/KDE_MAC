@@ -1,1 +1,44 @@
-/home/cristo/.local/share/knewstuff3/window-decorations.knsregistry
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="717">
+  <name>Utterly Round Dark for Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2132512</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>52</rating>
+  <downloads>128611</downloads>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/Utterly-Round-Dark/*</installedfile>
+  <id>2132512</id>
+  <releasedate>2025-05-01</releasedate>
+  <summary>&lt;p>Rounded Window borders for KDE Plasma desktop environment that can follow any light color scheme with transparency and blur&lt;br />&lt;br />&lt;em> To blend window decoration with background, install and use the Color Scheme, Kvantum Theme and Konsole Color Scheme from the below Global Theme&lt;br />&lt;a href="https://www.pling.com/p/1904859/">Utterly Nord&lt;/a>, &lt;a href="https://store.kde.org/p/1906500/">Utterly Sweet&lt;/a>&lt;br />&lt;br />Key features:&lt;br />&lt;br />&lt;/em> Blends with Window background when appropriate Kvantum theme and Konsole Color Scheme is used&lt;br />&lt;em> Rounded corners&lt;br />&lt;/em> Follows any light color scheme and hence is usable with any Global Theme&lt;br />* Supports transparency: Go to &lt;code>System Settings &amp;amp;gt; Workspace Behavior &amp;amp;gt; Desktop Effects&lt;/code> and enable &lt;code>Blur&lt;/code>, &lt;code>Background Contrast&lt;/code> and &lt;code>Tranlucency&lt;/code> for best result.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132512/screenshot-20230307-170151.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132512/screenshot-20230307-170151.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwOTg5MjE5NSwibyI6IjEiLCJzIjoiMTRhMTUxM2NmOTAyMzUzZmEzOGJlNDI2NDlmYjkxMzVjMThhMWVmYzk4M2M3MDVjMDNiZjIyZmUwYmViOWFhY2JjYzliMjc3Zjg2OTFhY2VhNzllYjY4NTVmZmNlMjA5MzM5OTgxNDRmNzgwNjNhZWUxNzQxZDA2YmIwNWZmOGMiLCJ0IjoxNzc2NjAxNTI0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.lzdFYRP5SapZ_kJtEJUjwq5OgdpTfIKCInjzpXyjfyM/Utterly-Round-Aurorae-Dark.tar.xz</payload>
+  <tags>plasma,original-product,theme,unix,gplv2-later,linux,mac,kde,blur,blured,blurred,blurry</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="717">
+  <name>Utterly Round Light Solid for Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/2132515</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>50</rating>
+  <downloads>4210</downloads>
+  <installedfile>/home/cristo/.local/share/aurorae/themes/Utterly-Round-Light-Solid/*</installedfile>
+  <id>2132515</id>
+  <releasedate>2025-05-01</releasedate>
+  <summary>&lt;p>Solid rounded Window borders for KDE Plasma desktop environment that can follow any light color scheme.&lt;br />&lt;br />&lt;em> To blend window decoration with background, install and use Athe Color Scheme, Kvantum Theme and Konsole Color Scheme from the below Global Theme&lt;br />&lt;a href="https://store.kde.org/p/2011616/">Utterly Nord Light Solid&lt;/a>&lt;br />&lt;br />Key features:&lt;br />&lt;br />&lt;/em> Blends with Window background when appropriate Kvantum theme and Konsole Color Scheme is used&lt;br />&lt;em> Rounded corners&lt;br />&lt;/em> Follows any light color scheme and hence is usable with any Global Theme&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132515/screenshot-20230307-170307.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/2132515/screenshot-20230307-170307.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwOTg5MjA2OSwibyI6IjEiLCJzIjoiOTRlNTUwNjQ2OWJhZmY5NzY1MzhmNjU0YTgyOTJlY2IzMWJkMWQ0YmI2MzMyYjU4OTNhOThjNjk5MjVkMDQwMjM1NzNmMTYzNDY2ZWNjM2Y4YmZiM2MyY2NjNTFkYzhmZmEyNjM0ODE4MzRmY2E2N2M3MjlkOWY3Y2JhYzViYWYiLCJ0IjoxNzc2NTk4NzA5LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.UN8aGdoCbL0sgpGbMZVCVh305VOLhIAgYIz5lVvIUBg/Utterly-Round-Aurorae-Light-Solid.tar.xz</payload>
+  <tags>linux,kde,plasma,original-product,gplv2-later,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

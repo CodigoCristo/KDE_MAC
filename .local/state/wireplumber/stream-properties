@@ -1,0 +1,4 @@
+[stream-properties]
+Input/Audio:application.id:org.kde.plasma-pa={"channelMap":["MONO"], "channelVolumes":[1.000000], "mute":false, "volume":1.000000}
+Output/Audio:media.role:Notification={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:application.name:Google\sChrome={"channelVolumes":[1.000000, 1.000000], "mute":false, "volume":1.000000, "channelMap":["FL", "FR"]}

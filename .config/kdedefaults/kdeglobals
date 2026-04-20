@@ -1,8 +1,8 @@
 [General]
-ColorScheme=KlassyDark
+ColorScheme=UtterlyNord
 
 [Icons]
-Theme=Mkos-Big-Sur-Night
+Theme=Tela-circle-nord-dark
 
 [KDE]
-widgetStyle=Breeze
+widgetStyle=kvantum-dark

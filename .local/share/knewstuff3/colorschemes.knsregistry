@@ -2,64 +2,23 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="112">
-  <name>MkosBigSur-Dark</name>
+  <name>Utterly Nord</name>
   <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/1870462</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1903937</homepage>
   <licence></licence>
-  <version>1.6.8</version>
-  <rating>50</rating>
-  <downloads>0</downloads>
-  <installedfile>/home/cristo/.local/share/color-schemes/MkosBigSurDark.colors</installedfile>
-  <id>1870462</id>
-  <releasedate>2025-10-31</releasedate>
-  <summary>&lt;p>plasma colors for Mkos-Night theme&lt;/p></summary>
+  <version>1.1</version>
+  <rating>58</rating>
+  <downloads>56272</downloads>
+  <installedfile>/home/cristo/.local/share/color-schemes/UtterlyNord.colors</installedfile>
+  <id>1903937</id>
+  <releasedate>2025-05-01</releasedate>
+  <summary>&lt;p>A Nordic Color Scheme for Plasma&lt;br />&lt;br />Global Theme in Screenshots: &lt;a href="https://store.kde.org/p/1904859/">Utterly Nord&lt;/a> and &lt;a href="https://store.kde.org/p/2012776/">Utterly Nord Solid&lt;/a>&lt;br />Application Launcher in Screenshot: &lt;a href="https://store.kde.org/p/1819888/">Simple Application launcher&lt;/a>&lt;br />Konsole Color Scheme in Screenshots: &lt;a href="https://store.kde.org/p/1903869/">Utterly Nord&lt;/a> and &lt;a href="https://store.kde.org/p/2011844/">Utterly Nord Solid&lt;/a>&lt;br />Recommended Kvantum Themes: &lt;a href="https://store.kde.org/p/1905813/">Utterly Nord&lt;/a> or &lt;a href="https://store.kde.org/p/2011615/">Utterly Nord Solid&lt;/a>&lt;br />Wallpaper in Screenshot: &lt;a href="https://store.kde.org/p/1904144/">Utterly Nord&lt;/a>&lt;br />Window Decoration in Screenshots: &lt;a href="https://store.kde.org/p/1999020/">Utterly Round Dark&lt;/a> and &lt;a href="https://store.kde.org/p/2011612/">Utterly Round Dark Solid&lt;/a>&lt;br />Icons in Screenshot: &lt;a href="https://store.kde.org/p/1359276/">Tela Circle Nord&lt;/a> (Choose the Nord Variant while installing)&lt;br />NeoFetch theme in Screenshots: &lt;a href="https://github.com/Chick2D/neofetch-themes/blob/main/normal/acenoster.conf">Acenoster Fetch&lt;/a> (Save this file as &amp;quot;~/.config/neofetch/config.conf&amp;quot;)&lt;br />oh-my-zsh theme in Screenshots: &lt;a href="https://github.com/HimDek/Acenoster-ZSH-Theme/">Acenoster ZSH Theme&lt;/a>&lt;/p></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1870462/image10.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1870462/image10.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTk0MjkzMiwibyI6IjEiLCJzIjoiNDFlNmI4NDkwZWEzZDE3NTczYTIxODA4NGFiODY4ZTk5ZGM3NTc2YjA0ODM3NTg1NTBiZjdhM2U2NjExMzE3M2E1YmRmOWUyNGMwMzhmMGY0NmJmYjA5MzhjNTQ0YmI3ZGU0MjRmYWEzOGUyNDYyZDIwZjU4NDc1MzJjN2EzMDkiLCJ0IjoxNzYyMTYwMTExLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.Ht5noSaVoM_hS1yYjjv_wMnneix4IW8xfbwGDZrAHrk/MkosBigSurDark.tar.xz</payload>
-  <tags>kde,linux,mac,macos,unix,theme,osx,plasma,colorscheme,agplv3</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>MacVentura color schemes</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/2044268</homepage>
-  <licence></licence>
-  <version></version>
-  <rating>50</rating>
-  <downloads>47407</downloads>
-  <installedfile>/home/cristo/.local/share/color-schemes/MacVenturaDark.colors</installedfile>
-  <installedfile>/home/cristo/.local/share/color-schemes/MacVenturaLight.colors</installedfile>
-  <id>2044268</id>
-  <releasedate>2023-05-30</releasedate>
-  <summary>&lt;p>MacOS Ventura themes for KDE Plasma desktop&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/2044268/monterey-plasma-g2518.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/32/24/44/2044268/monterey-plasma-g2518.jpg</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY4NTQ2MjA3MSwibyI6IjEiLCJzIjoiZTMyMzU2ZmZhZTgzMWE0ZDkyOWRiZWU1Y2M3NjJhZDM0MDBkMjJjZWUwZmZiOTBjODM2NGU1NjVmMjJhNWMxZWZlNmU2ODU3OGNlOTNlMTZiNDA5ZDIyZGFmODFiZGIxNmY4NzI3NjU3YjA2MzcxYWQ0NDc0ZjdmZjg1NTYzMzAiLCJ0IjoxNzYyMTUxMzY4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.6Q6aCyycWMq2GyFizKS_JZOwp2OnIZkGnAD9OeOA1KE/MacVentura.tar.gz</payload>
-  <tags>linux,unix,theme,original-product,plasma,gplv3,colorscheme,kde</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Mkos-BigSur-Colors</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/1408712</homepage>
-  <licence></licence>
-  <version>1.4.1</version>
-  <rating>50</rating>
-  <downloads>0</downloads>
-  <installedfile>/home/cristo/.local/share/color-schemes/MkosBigSur.colors</installedfile>
-  <id>1408712</id>
-  <releasedate>2025-10-31</releasedate>
-  <summary>&lt;p>&lt;b>Icon theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1400021/">&lt;/a>&lt;a href="https://www.pling.com/p/1400021/">https://www.pling.com/p/1400021/&lt;/a>&lt;br />&lt;strong>&lt;strong>&lt;strong>&lt;strong>**&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;br />&lt;br />&lt;b>Aurorae theme&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1408711/">&lt;/a>&lt;a href="https://www.pling.com/p/1408711/">https://www.pling.com/p/1408711/&lt;/a>&lt;br />&lt;strong>&lt;strong>&lt;strong>&lt;strong>**&lt;/strong>&lt;/strong>&lt;/strong>&lt;/strong>&lt;br />&lt;br />kvantum is also used in the capture with the simple-bigsur theme, I share the link in case you want to install.&lt;br />&lt;a href="https://www.pling.com/p/1408701/">&lt;/a>&lt;a href="https://www.pling.com/p/1408701/">https://www.pling.com/p/1408701/&lt;/a>&lt;br />&lt;br />&lt;b>installation of kvantum&lt;/b>&lt;br />&lt;a href="https://www.pling.com/p/1342034/">&lt;/a>&lt;a href="https://www.pling.com/p/1342034/">https://www.pling.com/p/1342034/&lt;/a>&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1408712/d1ec4b740a9c2677232d3b6e8c1505ebce473727436b97332c798ebd5ffaa8005790.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1408712/d1ec4b740a9c2677232d3b6e8c1505ebce473727436b97332c798ebd5ffaa8005790.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTk0MjQwOCwibyI6IjEiLCJzIjoiYWQ5YzNlMDdlYjhhYmZmZTJkOGRiMmE5ZDM4Mjg1MjE1MjkyZmRiY2Q1ZDBkZDhhNmRhNWQwZDVlZjE5OGY0YTE0ZDQ2OThmMzc0ZTFkNzdjZGFiNWRmMjc5YTdkOGEwODQ1ZDRiOGRlMjcxYzJkZGNjMDA2NjM0M2Y2NDE5OGUiLCJ0IjoxNzYyMTYwMTE1LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.iWnLWoscqWO7a7zJTvS7Mzj44bQwDAq49aJ29jzg21s/MkosBigSur.tar.xz</payload>
-  <tags>osx,plasma,sequoia,unix,theme,kde,colorscheme,agplv3,linux,macos</tags>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/1903937/nordicon.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/1903937/nordicon.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcwOTc5OTE0OSwibyI6IjEiLCJzIjoiYTM5MmIyNmQ2Zjk5M2ZlZDJiNjg1ZGUwN2M2OTIxOWRhMTQ2NTQ3MmUyOGIyY2IzN2JkOTZjMTUzYmI2YjQ4MGJhMTlmNmU2ZDE2MjdlY2RlZjJmZGU0NjRlZDcyZWFhNjg1ZWFiMWI4OWU2ZjcwN2UzYjU0MzFkMWYzZDU2MGQiLCJ0IjoxNzc2NjAxNTI3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.iJYNDS1PoAOsdgrtFkrfS8a5TP7yft18-xrmGnWdrjg/Utterly-Nord-Colors.tar.gz</payload>
+  <tags>kde,linux,unix,theme,original-product,nord,nordic,plasma,colorful,colorscheme,gplv2-later</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

@@ -1,13 +1,12 @@
 [General]
-ShowFullPathInTitlebar=true
-ViewPropsTimestamp=2025,11,4,0,0,33.473
+DoubleClickViewAction=none
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2026,4,19,6,27,55.518
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
-Places Icons Static Size=16
-
-[PlacesPanel]
-IconSize=16
+Places Icons Static Size=22
 
 [PreviewSettings]
-Plugins=appimagethumbnail,ffmpegthumbnailer,blenderthumbnail,cursorthumbnail,mobithumbnail,audiothumbnail,fontthumbnail,ffmpegthumbs,djvuthumbnail,gsthumbnail,rawthumbnail,directorythumbnail,gsf-office,kraorathumbnail,opendocumentthumbnail,windowsexethumbnail,glycin-heif,heif,glycin-image-rs,glycin-jxl,glycin-svg,imagethumbnail,windowsimagethumbnail,exrthumbnail,jpegthumbnail,svgthumbnail,comicbookthumbnail,ebookthumbnail,mltpreview
+Plugins=ffmpegthumbs,fontthumbnail,jpegthumbnail,cursorthumbnail,svgthumbnail,comicbookthumbnail,windowsimagethumbnail,rawthumbnail,kraorathumbnail,audiothumbnail,djvuthumbnail,directorythumbnail,blenderthumbnail,appimagethumbnail,exrthumbnail,imagethumbnail,ebookthumbnail,mobithumbnail,windowsexethumbnail,opendocumentthumbnail,gsthumbnail,gsf-office,glycin-svg,glycin-jxl,glycin-heif,glycin-image-rs,ffmpegthumbnailer

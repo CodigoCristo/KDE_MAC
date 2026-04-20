@@ -7,22 +7,15 @@
 </defs>
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
-<g fill="#000000" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-915.625,758.243)"
-font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
-opacity="0" >
-<path vector-effect="none" fill-rule="evenodd" d="M293,-242.638 C293,-242.638 293,-242.638 293,-242.638 L309,-242.638 C309,-242.638 309,-242.638 309,-242.638 L309,-226.638 C309,-226.638 309,-226.638 309,-226.638 L293,-226.638 C293,-226.638 293,-226.638 293,-226.638 L293,-242.638"/>
-</g>
-
-<g fill="#f4655f" fill-opacity="1" stroke="none" transform="matrix(3.125,0,0,3.125,-12.5,-3226.13)"
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M12.0001,1047.36 C15.866,1047.36 19,1044.23 19,1040.36 C19,1036.5 15.866,1033.36 12.0001,1033.36 C8.13402,1033.36 5,1036.5 5,1040.36 C5,1044.23 8.13402,1047.36 12.0001,1047.36 "/>
 </g>
 
-<g fill="none" stroke="#c1463a" stroke-opacity="1" stroke-width="0.7" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(3.125,0,0,3.125,-12.5,-3226.13)"
+<g fill="#ff2a2a" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" transform="matrix(0.0548326,0,0,-0.0548323,-3.69636,48.8502)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M12.0001,1047.36 C15.866,1047.36 19,1044.23 19,1040.36 C19,1036.5 15.866,1033.36 12.0001,1033.36 C8.13402,1033.36 5,1036.5 5,1040.36 C5,1044.23 8.13402,1047.36 12.0001,1047.36 "/>
+<path vector-effect="none" fill-rule="nonzero" d="M523.349,-20.9698 C775.15,-20.9698 979.279,183.16 979.279,434.966 C979.279,686.772 775.15,890.902 523.349,890.902 C271.541,890.902 67.4117,686.772 67.4117,434.966 C67.4117,183.16 271.541,-20.9698 523.349,-20.9698 "/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

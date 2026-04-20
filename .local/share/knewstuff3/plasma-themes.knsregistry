@@ -2,43 +2,23 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="104">
-  <name>Amethyst Haze</name>
+  <name>Utterly Round</name>
   <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/2218601</homepage>
+  <author>himdek</author>
+  <homepage>https://store.kde.org/p/1901768</homepage>
   <licence></licence>
-  <version>1.3.9</version>
-  <rating>50</rating>
-  <downloads>0</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/desktoptheme/Amethyst.Haze/</installedfile>
-  <id>2218601</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>High transparency and contrast theme inspired by canonical's unity&lt;/p></summary>
+  <version>2.1</version>
+  <rating>67</rating>
+  <downloads>55131</downloads>
+  <installedfile>/home/cristo/.local/share/plasma/desktoptheme/Utterly-Round/</installedfile>
+  <id>1901768</id>
+  <releasedate>2025-04-25</releasedate>
+  <summary>&lt;p>A theme for KDE Plasma desktop environment with transparency, blur and rounded cornerts for UI elements that can follow any color scheme.&lt;br />&lt;br />Key features:&lt;br />&lt;em> Rounded corners for all widget elements&lt;br />&lt;/em> Follows any color scheme and hence is usable with any Global Themes&lt;br />&lt;em> Material You clock widget&lt;br />&lt;/em> Supports transparency: Go to &lt;code>System Settings &amp;amp;gt; Workspace Behavior &amp;amp;gt; Desktop Effects&lt;/code> and enable &lt;code>Blur&lt;/code>, &lt;code>Background Contrast&lt;/code> and &lt;code>Tranlucency&lt;/code> for best result.&lt;br />&lt;br />Recommended Global Themes: &lt;a href="https://store.kde.org/p/1904859/">Utterly Nord&lt;/a> or &lt;a href="https://store.kde.org/p/1917104/">Utterly Nord Light&lt;/a>&lt;br />Wallpaper in Screenshots: &lt;a href="https://store.kde.org/p/1906464/">Utterly Sweet Wallpaper&lt;/a> and &lt;a href="https://store.kde.org/p/1904144/">Utterly Nord Wallpaper&lt;/a>&lt;br />Application menu in Screenshots: &lt;a href="https://store.kde.org/p/1819888">Simple Application Launcher&lt;/a>&lt;/p></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2218601/amethyst.haze.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/2218601/amethyst.haze.png</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTcwMjU3NywibyI6IjEiLCJzIjoiNWQwYzJhNTE4NGIxNjcyOTUyY2E1ZWYxY2UzZDVlMGIyMWM5YmVkMDNlMDQ0M2M2ZmI1NWJiODlmZjU0ZjFjOTEwNTJlZTEzNWFjNTcyODk2NDIyZmI4NDNhYmY4ZDVhOWRjY2IwNWQ2YjgxZmY5ODNhMWRlNzlmMWViYjAzNWUiLCJ0IjoxNzYyMTYwMTI1LCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.UubXa-t5dHdF8wdO14F-oIiasIRbUSpU08knYyhpCfs/Amethyst.Haze.tar.xz</payload>
-  <tags>linux,modern,kde,unix,theme,plasma,agplv3</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="104">
-  <name>Apple-Dark Theme</name>
-  <providerid>api.kde-look.org</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/1975770</homepage>
-  <licence></licence>
-  <version>2.8.3</version>
-  <rating>50</rating>
-  <downloads>0</downloads>
-  <installedfile>/home/cristo/.local/share/plasma/desktoptheme/AppleDark-ALL/</installedfile>
-  <id>1975770</id>
-  <releasedate>2025-10-29</releasedate>
-  <summary>&lt;p>Plasma theme for miscellaneous global themes of kde, whit similar in appearance to macos.&lt;/p></summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1975770/screenshot-20230420-191106.jpg</preview>
-  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/24/01/13/1975770/screenshot-20230420-191106.jpg</previewBig>
-  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTc2MTcwMjQ2MiwibyI6IjEiLCJzIjoiMzg2Y2Q5ZjU3MzNkZTBiZGY5YmU2MjIyZDExYmJkMzM0ZTgxNzQ5MmRkMTliODEwMmI0Y2MzODE2MDJmNTRlODkwNDRmNzZlMzM0MDYxNDAwN2RkNzEyOWJkNjQyZDU4NDRlOTE4ZjA2ZTNlNGRjNWRjYmExN2ZhOTIwY2FhM2IiLCJ0IjoxNzYyMTYwMTIwLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjYuNDguMTI1In0.ge8e7bz_THD1W7XJKQp2-hsmUqzV2NWGMQ7rBKPbJB8/AppleDark-ALL.tar.xz</payload>
-  <tags>original-product,osx,plasma,linux,kde,sequoia,theme,unix,ventura,agplv3</tags>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/1901768/logour1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/66/42/38/1901768/logour1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcyMzExODEyNiwibyI6IjEiLCJzIjoiMDZlZGIwZTExMGZhMzA4NGNkZjM1ZWUyNWRhNDcwZDBlMDc4NzQ1ODg4YmFhMDM0MjZhNWE5MTY3ZmI2YzM1YWIyZTg4ZTJiMDY1MzJjZmI0ZjFhNzVjYjA2YTEwN2IyMjA0MzAwNTYyZmVkYTNiZDUyN2FhYWI1MzgwNzU1ZWEiLCJ0IjoxNzc2NjAxNTMxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTc5LjcuMTUuMTIxIn0.btQVw2lYOAau_UjQRUoaiB4p_ZZ-0zNwsNK-LRAzpS8/Utterly-Round-Desktop.tar.xz</payload>
+  <tags>widgets,linux,kde,blurry,rounded,unix,theme,original-product,plasma,gplv2-later</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>
