@@ -1,7 +1,7 @@
 # KDE Plasma Theme 
 ![KDE_MAC.png](KDE_MAC.png)
 
-Dotfiles para transformar Arch Linux con KDE Plasma en un entorno estilo macOS Ventura.
+Dotfiles para transformar Arch Linux con KDE Plasma
 
 ## Requisitos Previos
 
